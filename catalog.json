@@ -1,0 +1,4282 @@
+{
+  "rootId": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+  "folders": {
+    "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km": {
+      "id": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "name": "المكتبة",
+      "type": "folder",
+      "parentId": null,
+      "url": "https://drive.google.com/drive/folders/1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "children": [
+        "1jili7bsruus-IA1flbYolGBwQjIe1W1j",
+        "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+        "13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg",
+        "1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9",
+        "1VuKlsMClyUmuftmc_vJRd5oboDGw2FDc"
+      ],
+      "path": ""
+    },
+    "1jili7bsruus-IA1flbYolGBwQjIe1W1j": {
+      "id": "1jili7bsruus-IA1flbYolGBwQjIe1W1j",
+      "name": "القرآن الكريم كاملاً",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1jili7bsruus-IA1flbYolGBwQjIe1W1j",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "children": [],
+      "path": "المكتبة"
+    },
+    "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA": {
+      "id": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "name": "المرحلة الابتدائية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "children": [
+        "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+        "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+        "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+        "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+        "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+        "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi"
+      ],
+      "path": "المكتبة"
+    },
+    "13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg": {
+      "id": "13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg",
+      "name": "المرحلة الثانوية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "children": [
+        "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+        "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+        "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq"
+      ],
+      "path": "المكتبة"
+    },
+    "1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9": {
+      "id": "1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9",
+      "name": "المرحلة المتوسطة",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "children": [
+        "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+        "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+        "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3"
+      ],
+      "path": "المكتبة"
+    },
+    "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD": {
+      "id": "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+      "name": "الصف الأول ابتدائي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "children": [
+        "1wZdG3NOZrgpvCv3w4i0H-BGjGAiY7OZr",
+        "1g41rWJZU8aamkvFI5OpyM5QcVMF39aay",
+        "1E46WmoJfWYgur8nu4IpOXP4sVYWSo-T7",
+        "1__O_54CyBx9ANeDAhZZpUzINRmwW_SNk"
+      ],
+      "path": "المكتبة / المرحلة الابتدائية"
+    },
+    "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c": {
+      "id": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "name": "الصف الثالث الابتدائي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "children": [
+        "150thHvSxDdrwjYViyQbT10Xi-aQvF563",
+        "1hPBtZ5viCRWAic0JoNGz1wbXdjql9P-S",
+        "1fmtPSPQOESb05gktJn1GKGfTGgcaNOJD",
+        "17jbAqF14mYMI6oudeaUYcy8F_tU4JNOl",
+        "1XBnAjyWBI6RsKNtiMqp-au0LxvmtP5tP",
+        "1ACjYjLsZK0df73ezJZdMm8sV8qpBRYon"
+      ],
+      "path": "المكتبة / المرحلة الابتدائية"
+    },
+    "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s": {
+      "id": "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+      "name": "الصف الثاني الابتدائي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "children": [
+        "1lmVL8O2FsCJNrNWkFNF6LfyHXgyLWGOn",
+        "15HXfA2bJ81gyb4u4QqnZO0olDl7qnj4R",
+        "1SLAbEhcmqk_WqlxSE_0EFfcij9NtqjhE",
+        "1KMuHJ7aALsKNC0QgNf1f7fFIhUYhpYxP"
+      ],
+      "path": "المكتبة / المرحلة الابتدائية"
+    },
+    "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL": {
+      "id": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "name": "الصف الخامس الابتدائي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "children": [
+        "1duzX1batSTznso6aTtYUFcNEUKEtiRxr",
+        "1XBqy-WASiW06izpC8hNYPtpqhQEi9jQ5",
+        "1MXRg5x7Qp5Ewgr36LmVkzHL-EK1BNrcr",
+        "16fMzXAPpvg46qjv7_vVWMfELv-1o_9ds",
+        "1p06lkFitCa4mTLxDFFBE2v_QrRfcESpW",
+        "1ciLr45tBdFTwx14BftyZ9sO_hagTTzQ3",
+        "1lKGFvyZc6JiVwxqxiPbLPOAYg8YRBRwI",
+        "1LDlVj2z_oCQIRHDAuW0-gCHeucX7cOmR",
+        "1WAYjCG0m9IbTRPO5-_U3_tRv9Q33zgXP",
+        "1ZbWg1d9va1b35fhzMoMaWY3HP-PygnIN"
+      ],
+      "path": "المكتبة / المرحلة الابتدائية"
+    },
+    "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_": {
+      "id": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "name": "الصف الرابع الابتدائي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "children": [
+        "1Ug_PyRNkbutrKHANk3fL9Jp_8cUqrtRv",
+        "1hQsLEJ7kwvNahqe5kvx08hkTqTM6uu8I",
+        "1sTpbQRuBdDJ22kje83YP80P1d0Ak5f2w",
+        "1TLcG1Jlyd382LmpP0GhhZ3Eql2z5Xdfy",
+        "1RMhaAnVB-H2oJN1YhQChU1bTcfQUtzE9",
+        "1nZpD8Rr-s86wNPSU7QQuWIpQ8LtJbceg",
+        "1u4Jdxkw3Uvhi5dA7SjzmblPQwr1BpYaI",
+        "1PIbf9l-euHFG16hlhHyIJ_exh8_pIT7k"
+      ],
+      "path": "المكتبة / المرحلة الابتدائية"
+    },
+    "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi": {
+      "id": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "name": "الصف السادس الابتدائي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1ZhazNkxxZOlbFSKfrPWUSKbrzlcTf3fA",
+      "children": [
+        "1VdXg16NT0zs1EwMaLTsjEsnX4N8IuxhO",
+        "1AKkP4hsq2YpBQ03dJl0XRlD_7XRPo05T",
+        "1xUjaqvT0sYGhTY-04kaJyiZUB3RfQuej",
+        "1bvcb2heEsMNbo5OHWMPeKzqAhl8OE4Y0",
+        "1Ng1LPx_F0_9h1-TXU_F6JjYo4bw3ruV_",
+        "1-UnkWVVQl3uJf5J5RkJfikKfQ1MyZx4A",
+        "1wxgdDCkjCvz7_bbVEg2RML6gK7hbiDp-"
+      ],
+      "path": "المكتبة / المرحلة الابتدائية"
+    },
+    "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv": {
+      "id": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "name": "الصف الاول ثانوي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg",
+      "children": [
+        "178W4kVWqH9VlnqjDZhpo4uN-8ABoVXJa",
+        "1BUxJDGGXmeqTIUBx6ouX0nK6F5rpCkQM",
+        "1JaIFt-n0hFf1WkN6MswGX6AY75BDt1B3",
+        "1XIF26X7BjBC0tevEJZDu10lEHNOmg_iJ",
+        "1sEPQXZDbpD8Xzus2Lx4as-21xgOriXt1",
+        "1iwYV23loFLeLqrfG9AqOX6i4uOu0z5Fk",
+        "1fISSuTeZEytuwrWyOD96UIOsk0Jfo8Kd",
+        "1GZ6u5X5fc4siM5fLCmqq30SiyngKYU8x",
+        "1zNLxItzuYDEw7_tUjfSmG9ZBoTcTHyzj",
+        "1cN2E9rZ2lJcv7yfkL7Zn4544w_SVoDlC"
+      ],
+      "path": "المكتبة / المرحلة الثانوية"
+    },
+    "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m": {
+      "id": "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+      "name": "الصف الثالث ثانوي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg",
+      "children": [
+        "1L8mA8_N4dBZTeifYhDfQi75muTBdne-1",
+        "1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+        "1rNxuRbnKRfS9e225wcTMql3vRc3888oZ",
+        "1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt"
+      ],
+      "path": "المكتبة / المرحلة الثانوية"
+    },
+    "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq": {
+      "id": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "name": "الصف الثاني ثانوي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "13Yhl7YLMZF_0AAISNKhX8uQCxuUyEjhg",
+      "children": [
+        "1B3pxaVQP2p3MBqGK2bR0xbGgGUtT5y_6",
+        "12zXUygGKyVe0j_E1UdfIkz-hiSAIi3ML",
+        "1vDaNk8OqQuRjLrH2ZeBoVsod7gGwUrZC",
+        "17F_-O8wyKsvSvN1rv9gw8A6Oby8wdw0B",
+        "1z-z4mQu2nmQCYSoXKJpDLRBBMT79XPue",
+        "1jL6NLhWVkaOwcfNgUPcB_9e1RvtW2ydt",
+        "1lxSpCn3g71w4UxkPQXGFLp7SmEgWBquB",
+        "1cUM0CdrjvIcxLIeQeXyGFGeeKNkxchiW",
+        "1I-mklrdli-0W4vxUXyznPjTZxvU8qdrh",
+        "1CI6WhZxsnKBj3EVriLm4-a4jwpvd_7PI",
+        "11CPL7DzDGjiUyg8341Iy-onqH1UjTH9m",
+        "1zEjW0B_Eea4GfurqVKm2sn1977TOWBfg",
+        "1PekEKD7KZOZDczgk11LB_uwNarr8Ceri",
+        "1V5EAvmS3c8ckGTEX2wuqoK2joKxBsGrt",
+        "1s5etI0WLv-SaP15IT5n9P3WI2MfsT8tp",
+        "1rKu8WNm5_mZA3dC1oSsxg0_tS7Z6vnep",
+        "1s_faCopQjSdMXXurYZtQ8mQTaHZyc8dM",
+        "1XUDa4TxLpDPwSCw61GqSid-TUdl2XWi9",
+        "1QA7M-IPf5OWC7wN4r4MjBLUNnzrPRSJm",
+        "16jQythuKOHjeLOIgHNAG_0YXMadWOBTg"
+      ],
+      "path": "المكتبة / المرحلة الثانوية"
+    },
+    "1s2I14DO2exSwlXh4lznfprXkpbEomTP-": {
+      "id": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "name": "الصف الاول متوسط",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9",
+      "children": [
+        "1paB7gg-9_yybDHHBIe43hTr7CXg9X9IX",
+        "1ft-CbVAZUCXS2XxgfmGADiDLkyLU1hHz",
+        "1BzfF3zA_GhIkF29491RP732gpPBC6UP1",
+        "1wypRnmbpUMKGsiBIGLCJP9Z6zDxdXhSV",
+        "1X_hRpRAjOZ90kqoZal6t2WMbsr4j2OGm",
+        "1zsBEaIUJ1MkX9sENUiHs0NUjA5W2kut-",
+        "1ROzG7P5eWrUwD2jUBkP6JaT9TovDMb93",
+        "1wCA6ZShn3JJ4H2z-_IsmhseX-BLHaK5d"
+      ],
+      "path": "المكتبة / المرحلة المتوسطة"
+    },
+    "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI": {
+      "id": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "name": "الصف الثالث متوسط",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9",
+      "children": [
+        "1OhwUqXd-2TTWCicom_Spjdv5PhGwVxHc",
+        "1fKGu4xsNp85939_MTEISACqCcWSe4j5w",
+        "1oPjUb5AS3wPGtc_C5DfrcpoGzZ-W4akE",
+        "1e8iGVNgZ_pGP80UfnRsZFTyoc4_AjNmf",
+        "1WgudH8VaLPM45tHOxHP7zW7mhFxbShn8",
+        "1P_UK4SfNeP9VAbmja3StbeNfwqZCtB2e",
+        "11c8ror2pIbvBhCfgbFYGkTRgE53BGkLC",
+        "1OEBOmwEF8rcLU4FmDPnS02_NSBcaED2i"
+      ],
+      "path": "المكتبة / المرحلة المتوسطة"
+    },
+    "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3": {
+      "id": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "name": "الصف الثاني متوسط",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1EmFH9gfuh2PyYlJp9o7JVJ8Mml5KRgJ9",
+      "children": [
+        "1AeJdaIVJJnW23KqJtyFNolVxp3qzqTNL",
+        "1_vyBAQY8YjWNvAMNK5k8F5hsk-X95kYr",
+        "1heD74h7bXZ6GU1cbIF4Le_AgYWFr7DzH",
+        "1DA73N-f4Y42tnf-_aBaC6INhz5X8NDul",
+        "1KHpfO1d6tkS-9AhssmTFFe_OhOowd8H5",
+        "1WzvJec3Y2fthnBJQAKnbruAXej-OTOoS",
+        "16F1ronnzzQZ-DLgZW0LCa3rsEVgAF3ch",
+        "1sxMtVOc85WsSG-xvRNqcNnuBpfS2BpLZ"
+      ],
+      "path": "المكتبة / المرحلة المتوسطة"
+    },
+    "1L8mA8_N4dBZTeifYhDfQi75muTBdne-1": {
+      "id": "1L8mA8_N4dBZTeifYhDfQi75muTBdne-1",
+      "name": "الامتحانات السابقة",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1L8mA8_N4dBZTeifYhDfQi75muTBdne-1",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+      "children": [
+        "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+        "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+        "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي"
+    },
+    "1HjKVb_adJ381tIjXj02mchN2ARnHromA": {
+      "id": "1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+      "name": "الكتب الدراسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+      "children": [
+        "1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j",
+        "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+        "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+        "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي"
+    },
+    "1rNxuRbnKRfS9e225wcTMql3vRc3888oZ": {
+      "id": "1rNxuRbnKRfS9e225wcTMql3vRc3888oZ",
+      "name": "المذكرات",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1rNxuRbnKRfS9e225wcTMql3vRc3888oZ",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+      "children": [
+        "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+        "19OVjcckvLG7AkVX5Typ6bCY7wXKtQ5n0",
+        "1erj4Yuk0nL9AbYtXRKulJE0-wYbFKhG4"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي"
+    },
+    "1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt": {
+      "id": "1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt",
+      "name": "المُريـحات",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1icQnbRScDSmmIRTF-VL9C9T7__ebxL2m",
+      "children": [
+        "1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn",
+        "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+        "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي"
+    },
+    "1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j": {
+      "id": "1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j",
+      "name": "حلول تمارين الكتب",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+      "children": [
+        "1ptGdyZ0DhWPWOxSo1JVnk6IFCSxN-I5o",
+        "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+        "1nfUF4RcJr-VwpY_1ggZUL-BZ7sD150bg"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية"
+    },
+    "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o": {
+      "id": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "name": "كتب المواد الأدبية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+      "children": [
+        "1DQsC5S2hpWHgR8HUdMwDcUrSrwNW802F",
+        "15SLvOf8nCPfcTfDIqN60RabVZM0r49N2",
+        "1TNRAIeGMUTUq00yw5Y4zLUyF0PAoHL_T",
+        "1D4U9F4TNolUnGnW1Sf-UnxoP8AyZ_L-V",
+        "1AIzQhYZJsWEz0mUmaMX3aKzWcjldAg65",
+        "1N-GF0GekInJo3K_t-qlA6XbhqEorwsli"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية"
+    },
+    "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF": {
+      "id": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "name": "كتب المواد الاساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+      "children": [
+        "1AY9sYFAkdXABt1tJkOVPv_bGO7FFPc2Q",
+        "1Hwoq94xPH9iSGAxC-wzsERWRyw_uCBWJ",
+        "1zOvkZu3aZuLtH8yqzD60h1KHwwZs5V9Y",
+        "1nedKNr-64uq_qeDxJWoJNdkV7udtcuRp",
+        "1Jsh0WeVC3yS6foDGLbvGsJsa1vGd-npM",
+        "1596xYWwEkZ0evx2T0cbQMMWMJ1Di-khO",
+        "1Jl0L5PubFof9Gb6vi640tlpFy0Ahw51g",
+        "1BI-h5RFMi2hQJx0Hzdh4tJy3vbKxExAU"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية"
+    },
+    "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH": {
+      "id": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "name": "كتب المواد العلمية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1HjKVb_adJ381tIjXj02mchN2ARnHromA",
+      "children": [
+        "1LDsWg86f20cNbw824oFbSE-HT6X1mzT6",
+        "1UGHTH57-rSJ_q8WAkHo4Cyzigmu_j5yZ",
+        "1Zk1bHIeWR_H55SHAuDuvaBVMAft_hJqU",
+        "1MU-7R6aamVFkm9qsilA8zd6epTR1u-AF",
+        "116Fijzi808QoKvLvZr5unDgsd1VUxG7f",
+        "13H_xpPHCPUUmE_X-3jUBTjD72W9Wa8aJ",
+        "1OaNy2_NodRYGI9V0SS_lVJ9O7OeJuN-I"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية"
+    },
+    "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq": {
+      "id": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "name": "امتحانات القسم الادبي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1L8mA8_N4dBZTeifYhDfQi75muTBdne-1",
+      "children": [
+        "1-dUY4x_mjNp7CLE9gB36YAzL9YV7dXCJ",
+        "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+        "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+        "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+        "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+        "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة"
+    },
+    "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI": {
+      "id": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "name": "امتحانات القسم العلمي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1L8mA8_N4dBZTeifYhDfQi75muTBdne-1",
+      "children": [
+        "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+        "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+        "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+        "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+        "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+        "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة"
+    },
+    "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES": {
+      "id": "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES",
+      "name": "امتحانات المواد الاساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1L8mA8_N4dBZTeifYhDfQi75muTBdne-1",
+      "children": [
+        "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+        "1DyJlG154eQIFzrjecPou7PEVhaOMIIYL",
+        "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+        "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة"
+    },
+    "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e": {
+      "id": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "name": "المواد الأساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1rNxuRbnKRfS9e225wcTMql3vRc3888oZ",
+      "children": [
+        "1sQvylf2jJ4I9ibHYCvQ9NBDgFBBlGqY6",
+        "1ELGmn6otlIu9ns74LnigPfShLOKjQS3V",
+        "1i05BeRbhug-IZxjbckDmjuhhoZ-dHF10",
+        "1dO0cljdB9OJN3iMoDtXUZ8WZKz6inxdo",
+        "1ARNBY7fR2qsm8XNa9awMuXgEQCFsqiaE",
+        "14J6uC34eB7WaoB0EjKljifU1VHkr_f8W",
+        "1zdDZ4p-S7ikf85ktz6Ot4xHaAm_aHkAI",
+        "1e425JOhnvFS8qB063qnpu-TXaC-NoFKw",
+        "1BYDO5zoUBjCXtSFkGCI6A5gZmnyVhhvi",
+        "1_F4H7ZBPeRq_rCqi6JYd2ifktfXItBLX",
+        "1pO1v584dNjUaROCqM8VhWTsrs-Fy2J9t",
+        "1PLOJGX31HwyN7OuE_Ld1Lu_2ApG_plAZ",
+        "1ic0CgkPBlj5I_0VVets1AQuDVGbFWohq",
+        "1ZwNp133YpcnkPxoRBuu99Pcv8YjBz6eH",
+        "18avcFljx8A4moi3BkiOaT3Tu3GDhVsu7",
+        "1hDE2fPWBNzBwA7KL_woxh8GKqcAmxRTZ",
+        "13_FdV6sys8E8s6CjzbGHB1R-lwmQQT3c",
+        "1RZaRC98AfGHK5bAw2hAbJpRtDyqpiaVE",
+        "1ikmQ2cphNVJGC-nULKbKp6ybyuS84xMp",
+        "1obKUTbo6cnVmgrSAUqxS9M0E_1hKQfzV"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات"
+    },
+    "19OVjcckvLG7AkVX5Typ6bCY7wXKtQ5n0": {
+      "id": "19OVjcckvLG7AkVX5Typ6bCY7wXKtQ5n0",
+      "name": "قسم أدبي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/19OVjcckvLG7AkVX5Typ6bCY7wXKtQ5n0",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1rNxuRbnKRfS9e225wcTMql3vRc3888oZ",
+      "children": [],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات"
+    },
+    "1erj4Yuk0nL9AbYtXRKulJE0-wYbFKhG4": {
+      "id": "1erj4Yuk0nL9AbYtXRKulJE0-wYbFKhG4",
+      "name": "قسم علمي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1erj4Yuk0nL9AbYtXRKulJE0-wYbFKhG4",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1rNxuRbnKRfS9e225wcTMql3vRc3888oZ",
+      "children": [],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات"
+    },
+    "1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn": {
+      "id": "1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn",
+      "name": "المواد الأساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt",
+      "children": [
+        "1d8ynbkpsV2EG9eSvHSjr2y-Nlk4AfuJk",
+        "1fRPOC8kt_RXgrZMI0eV7EimkqlIq9LaI",
+        "1CQ91b3YR_P5UKx8mlGVdUjf2H0JDY3Vz"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات"
+    },
+    "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or": {
+      "id": "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+      "name": "قسم أدبي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt",
+      "children": [
+        "1_xL3FgVFr_NBgD7epc0tWyomaTZwjUw5",
+        "1kR3d6iUv51Mtz_wat1PMz3h2Hzlp22Eu",
+        "1geuYQfXUpNwzVmCH3zEB7MVcDhHzTDGv",
+        "1yqPbn5NmfVYoZV6UNjNpbVCuW62N0T_S"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات"
+    },
+    "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx": {
+      "id": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "name": "قسم علمي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1YRRy_xSlclywk-zHRRuvTYzj4S-WspTt",
+      "children": [
+        "1_B0DIuF7oVtKIrpXiPeA4eFJZG76Rz60",
+        "1xHpDnHO28LxpdvcIwtaxgouY4EdJvjuz",
+        "1GilYY431BH1xL9DH7eP-GOpKlrhGZq3M",
+        "1OIxZdCGJrXZCD5aDKi93Uvc5GwHhmOda",
+        "1LR70ulrrbAQMbWAqxwHEeAs_4Hv81sEn",
+        "14MzN4Re6idP7kZxQTe-Rt28EcfjPFJe1",
+        "1c7eRum4xD8xP4wxqnrjY1WWwgSUh1TBU"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات"
+    },
+    "1-dUY4x_mjNp7CLE9gB36YAzL9YV7dXCJ": {
+      "id": "1-dUY4x_mjNp7CLE9gB36YAzL9YV7dXCJ",
+      "name": "اداب لغه انكليزية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1-dUY4x_mjNp7CLE9gB36YAzL9YV7dXCJ",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "children": [],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي"
+    },
+    "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa": {
+      "id": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "name": "التاريخ",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "children": [
+        "1hTSFWNbyxrv3xSKAZ2ch3dHuT5h9qLld",
+        "1-1ZRA3ZlHMXfKeVEuX2ehZZKE3JmnZi0",
+        "1smpkCYWHO2S6GTzL3X2SvVEgHqfg8Dug",
+        "1Heqcu1KdXWKQVRb-Db271RTeMeysDFWg",
+        "1yEYQBjXzAmDYfzCiDe0v4c1NpnA0hY0c",
+        "1jvTH5KLUrcWzd7_QgDl2o84WVF0aFvwb",
+        "1iZresAS5Y5yleZcjRHA56pwy_Sh_I80h",
+        "1t6-Ydf1L0JfpfLPQpNf55VVl-BBC4SJs",
+        "1EFUj_cXM1j02iU0PagBwDsrGPsO5FqoM",
+        "1F7lVMWRuhxER53iRyG6GTni0P2bTtPoy"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي"
+    },
+    "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL": {
+      "id": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "name": "الجغرافيا",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "children": [
+        "1uSpP3LBeIHhxVscvAW6LnahSvF5nRlG1",
+        "1RZGtkxdTqd6Wdkyzo1V57pSNjKcf8fpf",
+        "1L0fl36LlOxZGyOAGuy8TW-kaBtRbk9pC",
+        "10R4oaeGV77Gxy2GrLbB8f3h7dshkkQhy",
+        "1evCMvTu35OpRrgq25J9NF20lBCDvQhi5",
+        "1HOokFZDky8c2EfKcHhqgf7tySo_4AVyf",
+        "1iPsqCRAwTJbhaI5bH7gsXnGu3N9QzFeE",
+        "1LExLKPRC8Nf0O12k1uDyGrEYfU8Xt5fO",
+        "1HTOeadZF5zueIWyGgbG61Z-vTeYmeXRm",
+        "1gykZ-6iMAcmgeSZqpguzT1qG7bTAYoNP"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي"
+    },
+    "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk": {
+      "id": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "name": "الدراسات الإسلامية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "children": [
+        "1oBgGvZW6WcpGuBiT9icgp0JnLKKaAKCt",
+        "1oGRxtu5tauIaaf6Js2LX_CbO9dYEJ8ak",
+        "1gTCDpWgTWbM2Pa5eOZHqbvEq91teO37J",
+        "1ZTnSm4NhxqO1uqNXveSsYoUtklG1mBIZ",
+        "1VPeOnZCt33RY_Ak6o31_94W0sg0RUokx",
+        "1hwp3lfGhBRbw0Ne2_LCPExJ09VHFEeo_",
+        "1T1j8YI3fWw0rqNFrUZQ7v26tmhDtU2hm",
+        "1E7RewIbw-vYOnxqimTgbXo-OfADod2lk",
+        "1kRq0FxU6_eOlMOrblnRJqCYYA24T_NLG",
+        "1dGf3Yp57ZS-jUfarur-959N23BPzRcod"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي"
+    },
+    "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b": {
+      "id": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "name": "الرياضيات الأساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "children": [
+        "1yd2QtqRZ6j9cAWHtOOiMEdYDYVJDXHUM",
+        "1d-wDFYWeIcidJYFyfTrYS6eWvPrFWDT6",
+        "1XQcRKED0MPjPoOEvNrnrJSwx4Z-M4Ri2",
+        "1BBPoZVIjz9H_ondWcqU5FOp-IzmVcPIv",
+        "16Tbv0qm5mQJEX2DYqpPdFSgY2-RjP2VX",
+        "1wUSLGJD8ztIDQU7R6BmN5X6et9ZsIjwZ",
+        "1uLce9uebvYyzWAB3n0i42RVQAEH_7iUu",
+        "1uvcidltAcxrQHL2pWENx6EjS2Sb4eSXE",
+        "1E6anBcT5wq1OAciNm73HCCyBAek_zX54",
+        "16EGgYuP_HsbDbA9p5V8MfCkFxOtwl6B_"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي"
+    },
+    "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A": {
+      "id": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "name": "الفنون والتصميم",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-XZCcH_WLwgJESGKmuwtGAEaC5ThXrrq",
+      "children": [
+        "1IXjEFGO5QQ82Ut9_1f4397Xogup8RTM3",
+        "1WhbaQAPjxw85cmWOJouQX301gb_LEnpT",
+        "1MSWmD5BH3tT9luJo2jZGnF7fQFcCNGb1",
+        "1EUXrE5tMkaQB3bHj3zu8zxTqKF5QQPBV",
+        "12-w24W23LJgFIPv98Iv5h2XV-QnJ1q5I",
+        "1gp-45JSDinthztWKSlXNGScty5-OQ5T4",
+        "1--WRsoBkCUqKdvXkcGod0bWC28il_JnF",
+        "1Qx3RXybz6fwK0Yn_Js_bKGjfleKiNf8m",
+        "16bQl1IrUuKwi3u-kwHhJodF-H1eq7U3i"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي"
+    },
+    "1chOJJVjspawdgDH6QIiucEGlkyewdn6L": {
+      "id": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "name": "الأحياء",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "children": [
+        "19ddsmnNOAiwvm7PQlRlktwrbRykN39bj",
+        "14B1EAW-kw6dowGQB5oqz3YVG0Y1vFDPn",
+        "1mfAJggn7gpQcOrPK5CK-9c4oI97CDFgl",
+        "16W4wxIl44879atHYzpmagICj5Ii9Fla6",
+        "1xd8rlpWpIr2qU-67d0imbzPYiM56RXgS",
+        "1q_vtns1oNga29es-VekDpTFluETLylj7",
+        "14U8TkrMmnF1kipvVjsDs3UkWA35lBlp9",
+        "1JKG3Th5McLBMBy7cVh-eKlNECKf6Iv6x",
+        "1_BTME2v07t_0Ht6OErBiLFbpzr40NfiY",
+        "1n_TqrZaDKCuVVMzuhnCXqx1XzAMFUSB9",
+        "1w8OzG13obQ7bZjSRhqkOmLCoZ0tmyXH6",
+        "14otMsl2leg-wi33qod6nH2U0NJDqrQcf",
+        "1ExgpPALv5Z2p63zuXFY08l4N4cr_6sYU"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي"
+    },
+    "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ": {
+      "id": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "name": "الحاسوب",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "children": [
+        "1tO8bnWX544M0pjnyxu2JA_yNu4crcOA5",
+        "1vo7Q6KHWuuQluTkNeRntlM0kGyLHc_9y",
+        "13DaDbIIBZ4EA-Jux6Kxp2ax2AktYGCAF",
+        "16Q2bQ4mDQaBogr2uKwkCQzkzs_7G3vVh",
+        "1Ifsa1aI-ExJ5poXLnumvXKHZ-q-_KFuG",
+        "1uDBYO77cMIrOI_66faBKYia6LvjMdQOy",
+        "1aVSio6GnXO6mrZp3V_7GRh2EVf99YtLn",
+        "1S5qTp69ufkKO6gatOKLSNuFRRK968fa7",
+        "12wr4UYpX31TD1joIKZJnltyXyxlL_DJK"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي"
+    },
+    "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq": {
+      "id": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "name": "الرياضيات المتخصصة",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "children": [
+        "195jU_ak_pjUXIBEXxWSSKLMg-6PMNffA",
+        "1k_KRJ2pJr7QTHi8IqeMaReGYuL4P9L0w",
+        "1d1NcG6tM0ViEPd3H6YLA2yvUEs6FF-cX",
+        "1pmqJeGOVFD9fN3lEMsaMx-OGg65fBMrX",
+        "1KlNAObkIbetjUco_A2EXbUSwOkTw8XKK",
+        "1rpuN6GOs8CLzT-fIzt1cMw1mt3N3A4m1",
+        "1u927_JsyHoavFrzA1vMGatOfTpe51aqm",
+        "1D4eBqrQj9HlkxqVOE5i6fp5VbFYmc9rD",
+        "1ZgyUn9RAu9JN51XxCbrCjSVW3yBOWVwD"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي"
+    },
+    "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW": {
+      "id": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "name": "العلوم الهندسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "children": [
+        "1ccTEZ_nRH2e1ydVlLXZCg6PO3I2NQyRd",
+        "1A_oVaokdsfkMN1OH7pTgFSnxbYzuugjW",
+        "1i0T8PcRuuBqxx3Jq2V0PNryKgrMtRa0D",
+        "1jfMDgNo9YjJHs5UDUn3tVf3Fdy97g6hN",
+        "1YDzArGaM8_NZPEU670Ey4fyMOOQnDu17",
+        "1npFUdgPD9hyQkTPBoHXfdZ-uhMAUU7ei",
+        "1qF6limGZV7MQZyXfUzySit8Bh7SePlrC",
+        "13qY_9zKP6lfeAoY52Za0EED_JxZOXPXW",
+        "1wtbvsKgpz4IJ_e9L1gZ_TiXCbYQ2GEmw"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي"
+    },
+    "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL": {
+      "id": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "name": "الفيزياء",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "children": [
+        "1ydFmQKphYxxP2T5ZNjxzNGQ7FMQNxjYv",
+        "1FKXBMNTMuknIQo3Oik4_hf6KDqdHsU-t",
+        "1BWvt1cKUr8HjR31pxAy5rnqU80-xomcn",
+        "1q-2Jlk5IedmYEy-klHoTImILDzWd9nUI",
+        "1QyzFYrK_BoirY5naYt3s2TNT48qxkqAH",
+        "1jVyAhUSPYJ0V-lB7LvU7haZ8cZLmH728",
+        "1RKM6rK2AJKNfEy2BnLP0rxTy1f1laBZM",
+        "15Xhk2PJIsf9_jIVP-wM6B5XoI5Ze_qIe",
+        "1ILIUYVNYdrScC2VijKPS-Pop3MQa4MXS"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي"
+    },
+    "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo": {
+      "id": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "name": "الكيمياء",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "179wpTnbeGBFDgEUf0Ji41UTFnOA_W4UI",
+      "children": [
+        "1x0TJV5ISLeliWtCv1dxwDZrkUbcD5Tkw",
+        "1ZNsnfQo-MkqxK_Nx7PM3opAVVTQRzNvK",
+        "1RR-f25LHtSOgXX_wPy6DuKJG7c51bhIB",
+        "1wfV5FgnrIDTAry4bOzOlkROVAHVbbUcr",
+        "1nGto_qSv5vr5QuyW0LA8vKOOOfdnb7H3",
+        "1wJ0gSPKv82wpDsyJelFTiDLPpyS0N28Y",
+        "1P3kGCz7lmEfXuXcSQmDpTW-zkBW7Mwr9",
+        "1S8-FI1k7o8CArzfT1Bwt5TQDvT444bRY",
+        "1FnNpd5jE7cj_Bbk5E74NjcjMWcXGQIRi",
+        "1onIItWL8EEVakpfx1TRegeCFItAcK8Cv",
+        "17Ma3By1eHZ9vtBm6Lhz_EQeDc3Yjni7S"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي"
+    },
+    "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1": {
+      "id": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "name": "التربية الاسلامية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES",
+      "children": [
+        "1dkCBaLvc_wjrzmKWT6UV9XKDx7w1XjSN",
+        "1Ul0DQpT6YIY6h_1zf3e6YlmjvmuoYK5O",
+        "131g7-eIs0S2HP1zlQhsTU67Bq_1asVho",
+        "1kCaIfr-bl4XghK0SRNveOaNNlosul96s",
+        "1T_m5ZCdiesRzXU7ljkBXvMolkFShsjiz",
+        "1pC7D0QGxQ0L4Al7ctBcziLtZMXGB0jfL",
+        "1IKlGm1i2_zvw_ccb9WK2oeBwd3_FXQyr",
+        "1xCNFvs-JT0TOUbUCaKwM8RjjlYWaN_E_",
+        "1Uk05RW9Z-8qm4G-5jVOxCldQlwRoowq-",
+        "18VQDNsoHk8fwdHPWzmxkO7_Ctp_tIV0_",
+        "1yi1ZevlWasY3YHu04S1_f8S4tpxpHEC8",
+        "18hAPdCFs2DvYoHS208QPQaRuvF9mJTcZ",
+        "12DD4_tcZJdRuUECdqVDP2n1ZobhCTp2I",
+        "1qK3gkdKjk6CjjeNzz5M8rGP7gzXL902_",
+        "1papbGe5ZYAApyytw_z4sFDMKBWcRjsYd",
+        "16MJMApm4NaTSTHHMpdnn8KM-TOaQKvUW",
+        "1RxaWPts6A41mvwdvYGONrh8KMbz8UPQK",
+        "1ldVo0peUnuV-PFsHLkP13A1QPHdlM28A",
+        "1YnYA8msQebThffJ0igjOeQ_uIz1B17BO",
+        "1Fb6KrrUOuSTNa_Zkrx0cmHIMlJQCIJPr"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية"
+    },
+    "1DyJlG154eQIFzrjecPou7PEVhaOMIIYL": {
+      "id": "1DyJlG154eQIFzrjecPou7PEVhaOMIIYL",
+      "name": "الرياضيات الأساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1DyJlG154eQIFzrjecPou7PEVhaOMIIYL",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES",
+      "children": [],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية"
+    },
+    "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC": {
+      "id": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "name": "اللغة الانجليزية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES",
+      "children": [
+        "1S-Czq-NFh2j98Aghevh-Me2S7ckDyCai",
+        "1kqauMLdV6Ha05KF_AbTPx8QFofdCvH9F",
+        "1po5eeTlDg5jvKML7BljJCGeHt2QVX38I",
+        "1kEd-nGefMo2tBcR3ogo8S1SMRixuPB4m",
+        "1HJBt6_FuBjPdqVUYL7hhQYV37fMrpygm",
+        "1gw-pIwBYuRAPoceFc0_6SQcehjSmgnFP",
+        "1YwGSXuoZLrjp9m97ERhlTgruD8CajFB8",
+        "1obr-YmrP4joe7rPtC9wip9h_0ShvH2gS",
+        "1zqrFGoO8mObEOFX4BC4m9ktBIHe3nqC7",
+        "1gtFhvEUy5_VRT02sCQOhhgpWabYaGnw2",
+        "1v0jiggOSP8bm_aZaIMHszsW3f0uBC5zC",
+        "1GU5lU50i6Hrlgcg_cK7orl5LWfWLOA9D",
+        "1gH1InRpZFn0YBno2k2ASsQ2kXd9LneiG",
+        "1PNoxZi01uSBs4ANGyTje6J9K_PZR7IW_",
+        "1n7T1OOK1xbkuB_1fDuE2zw5vAgLxrOno",
+        "1SHjXjIsFZUKIQBGa072Y-fvXfMvTn2qt",
+        "1Wwckfa0rpwPURBGrYiIW7ffdsgVfFdmz",
+        "1Lwetjpx9qeN5o6gSez4iHhG10frJ90HS",
+        "1LK4Fu8KZ8FXXS8PaMKXg_Cl-BniRuzW6",
+        "1aqYoXOKC1dZTk5zXa0d-y9HSwlrzHIsE"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية"
+    },
+    "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO": {
+      "id": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "name": "اللغة العربية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1t8R2e_RFkey6a3aIELjnPPC7wYIvGrES",
+      "children": [
+        "1AV1ZbX4r9wvCjtzzxtB5F0fU8nwlV2lf",
+        "13PGitXOcXNjIeYvlXijc-YBslN_PA2-d",
+        "1Uz5wh_uQvqyMlthOfH01JctbiO6NL4O3",
+        "1u0o_aulKRrfhn7PkBmDMvIc_23UNlNxE",
+        "1-YA-fxaAz0QYxODdZ5llBOeUaZwB7QSr",
+        "1atpfyiJ7wUXhIH87BmG--qitGF4i825Q",
+        "1bTc3_DV7NXsQ3ENhRtczi9UOIl28RVD1",
+        "1Pa3P370YOFxHbWFNGjxhlwTTQ6u92LA5",
+        "1-g-TrDK0pSdiyIWZzhc0NQNYUBQ13ESc",
+        "1_aK2AIyPYDzr-VSq1XFGA4LwF_BIUGgU",
+        "13oPwKFO1KfWlXUD2No5scu0FumVxe-uI",
+        "1ZVgyvL3wDQdr1wu7PrRkA2_onX6HICDP",
+        "1LKlx8yCHLAnl1pKyfZ95V8MGIE9sY0WJ",
+        "16VWluwzeLNinEnPstYEGGgPWSCHgMedU",
+        "1-ShktstW2G9OVGw6V7GdguLixNQvLv3p",
+        "1_0IlkdmVkDJW13R3ruoHB0zCBdUDyStF",
+        "1LxqmIoK9KfrIHqSAMbNd8_FL0SMF9VlD",
+        "1Yd6Rjj1bcW3Fkc2wh5tTs7j6Xp3gXfrf",
+        "1-v3GdD9HmDADdSbEha53FAOPWfgPkBwd"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية"
+    },
+    "1DQsC5S2hpWHgR8HUdMwDcUrSrwNW802F": {
+      "id": "1DQsC5S2hpWHgR8HUdMwDcUrSrwNW802F",
+      "name": "اداب لغه انكليزية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1DQsC5S2hpWHgR8HUdMwDcUrSrwNW802F",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "children": [],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية"
+    },
+    "15SLvOf8nCPfcTfDIqN60RabVZM0r49N2": {
+      "id": "15SLvOf8nCPfcTfDIqN60RabVZM0r49N2",
+      "name": "الفنون والتصميم",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/15SLvOf8nCPfcTfDIqN60RabVZM0r49N2",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "children": [
+        "12e_TN0cTnfeAUe0ap2iSmW3gdCu6j1ik"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية"
+    },
+    "1ptGdyZ0DhWPWOxSo1JVnk6IFCSxN-I5o": {
+      "id": "1ptGdyZ0DhWPWOxSo1JVnk6IFCSxN-I5o",
+      "name": "حلول تمارين الكتب المساق الادبي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1ptGdyZ0DhWPWOxSo1JVnk6IFCSxN-I5o",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j",
+      "children": [],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب"
+    },
+    "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4": {
+      "id": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "name": "حلول تمارين الكتب المساق العلمي",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j",
+      "children": [
+        "1K7SDZf82zPtfeSPQrY0pfdFdgcJI_1RQ",
+        "1YNLx8XaU5G-GK3tod8wKKQ7j9-75NT_k",
+        "1e2OJYHZXBmmKPZbpXHTSLc_SyEGb512_",
+        "1ZtsCr1V_Z35sN8Zx0NW7sv-UjK4Ls0BT",
+        "1LNGppnBzXKcXrdAgGwyTUfW7qrxXXP89",
+        "1ibPmcwvWWcEqhUYbW9skkftwHCtXWlkr"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب"
+    },
+    "1nfUF4RcJr-VwpY_1ggZUL-BZ7sD150bg": {
+      "id": "1nfUF4RcJr-VwpY_1ggZUL-BZ7sD150bg",
+      "name": "حلول تمارين الكتب المواد الأساسية",
+      "type": "folder",
+      "url": "https://drive.google.com/drive/folders/1nfUF4RcJr-VwpY_1ggZUL-BZ7sD150bg",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1Bkb2W9Gmu0G4-R4iTkA8R56XZ8IXtL_j",
+      "children": [
+        "1OOOjdCfmjn7VqV_Hcz-UgeH01Dyr93f8",
+        "10Xnww8NWHUPyyMovKZI1x5aXCt2AOa1Q"
+      ],
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب"
+    }
+  },
+  "files": [
+    {
+      "id": "1VuKlsMClyUmuftmc_vJRd5oboDGw2FDc",
+      "name": "اضغط للإنضمام إلى قنواتنا",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1VuKlsMClyUmuftmc_vJRd5oboDGw2FDc/view?usp=drive_web",
+      "modified": "Oct 29",
+      "driveLabel": "",
+      "parentId": "1V6f7enRcBWD9I4lKPbxdYl82Yfh6y1km",
+      "path": "المكتبة"
+    },
+    {
+      "id": "1duzX1batSTznso6aTtYUFcNEUKEtiRxr",
+      "name": "English Activity Book - Grade 5.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1duzX1batSTznso6aTtYUFcNEUKEtiRxr/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1XBqy-WASiW06izpC8hNYPtpqhQEi9jQ5",
+      "name": "English Pupil’s Book - Grade 5.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1XBqy-WASiW06izpC8hNYPtpqhQEi9jQ5/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1MXRg5x7Qp5Ewgr36LmVkzHL-EK1BNrcr",
+      "name": "التاريخ - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1MXRg5x7Qp5Ewgr36LmVkzHL-EK1BNrcr/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "16fMzXAPpvg46qjv7_vVWMfELv-1o_9ds",
+      "name": "التربية الإسلامية - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16fMzXAPpvg46qjv7_vVWMfELv-1o_9ds/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1p06lkFitCa4mTLxDFFBE2v_QrRfcESpW",
+      "name": "التربية الفنية - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1p06lkFitCa4mTLxDFFBE2v_QrRfcESpW/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1ciLr45tBdFTwx14BftyZ9sO_hagTTzQ3",
+      "name": "الجغرافيا - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ciLr45tBdFTwx14BftyZ9sO_hagTTzQ3/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1lKGFvyZc6JiVwxqxiPbLPOAYg8YRBRwI",
+      "name": "الرياضيات - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1lKGFvyZc6JiVwxqxiPbLPOAYg8YRBRwI/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1LDlVj2z_oCQIRHDAuW0-gCHeucX7cOmR",
+      "name": "العلوم الطبيعية - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LDlVj2z_oCQIRHDAuW0-gCHeucX7cOmR/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1WAYjCG0m9IbTRPO5-_U3_tRv9Q33zgXP",
+      "name": "اللغة العربية - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1WAYjCG0m9IbTRPO5-_U3_tRv9Q33zgXP/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1ZbWg1d9va1b35fhzMoMaWY3HP-PygnIN",
+      "name": "تكنولوجيا معلومات - خامس ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZbWg1d9va1b35fhzMoMaWY3HP-PygnIN/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1PGRzdnKB3nhzsaXZCp6Oe3VNimZYviUL",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الخامس الابتدائي"
+    },
+    {
+      "id": "1VdXg16NT0zs1EwMaLTsjEsnX4N8IuxhO",
+      "name": "التاريخ - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1VdXg16NT0zs1EwMaLTsjEsnX4N8IuxhO/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "1AKkP4hsq2YpBQ03dJl0XRlD_7XRPo05T",
+      "name": "التربية الإسلامية - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1AKkP4hsq2YpBQ03dJl0XRlD_7XRPo05T/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "1xUjaqvT0sYGhTY-04kaJyiZUB3RfQuej",
+      "name": "الجغرافيا - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1xUjaqvT0sYGhTY-04kaJyiZUB3RfQuej/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "1bvcb2heEsMNbo5OHWMPeKzqAhl8OE4Y0",
+      "name": "الرياضيات - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1bvcb2heEsMNbo5OHWMPeKzqAhl8OE4Y0/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "1Ng1LPx_F0_9h1-TXU_F6JjYo4bw3ruV_",
+      "name": "العلوم - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Ng1LPx_F0_9h1-TXU_F6JjYo4bw3ruV_/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "1-UnkWVVQl3uJf5J5RkJfikKfQ1MyZx4A",
+      "name": "اللغة العربية - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1-UnkWVVQl3uJf5J5RkJfikKfQ1MyZx4A/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "1wxgdDCkjCvz7_bbVEg2RML6gK7hbiDp-",
+      "name": "تكنولوجيا معلومات - سادس ابتدائي (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wxgdDCkjCvz7_bbVEg2RML6gK7hbiDp-/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1gp8vhQ_Gjvm5e2ft8ygVz_f90KmnqiBi",
+      "path": "المكتبة / المرحلة الابتدائية / الصف السادس الابتدائي"
+    },
+    {
+      "id": "150thHvSxDdrwjYViyQbT10Xi-aQvF563",
+      "name": "English Activity Book - Grade 3.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/150thHvSxDdrwjYViyQbT10Xi-aQvF563/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثالث الابتدائي"
+    },
+    {
+      "id": "1hPBtZ5viCRWAic0JoNGz1wbXdjql9P-S",
+      "name": "English Pupil’s Book - Grade 3.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1hPBtZ5viCRWAic0JoNGz1wbXdjql9P-S/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثالث الابتدائي"
+    },
+    {
+      "id": "1fmtPSPQOESb05gktJn1GKGfTGgcaNOJD",
+      "name": "التربية  الإسلامية - ثالث ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1fmtPSPQOESb05gktJn1GKGfTGgcaNOJD/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثالث الابتدائي"
+    },
+    {
+      "id": "17jbAqF14mYMI6oudeaUYcy8F_tU4JNOl",
+      "name": "الرياضيات - ثالث ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/17jbAqF14mYMI6oudeaUYcy8F_tU4JNOl/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثالث الابتدائي"
+    },
+    {
+      "id": "1XBnAjyWBI6RsKNtiMqp-au0LxvmtP5tP",
+      "name": "العلوم - ثالث ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1XBnAjyWBI6RsKNtiMqp-au0LxvmtP5tP/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثالث الابتدائي"
+    },
+    {
+      "id": "1ACjYjLsZK0df73ezJZdMm8sV8qpBRYon",
+      "name": "اللغة العربية - ثالث ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ACjYjLsZK0df73ezJZdMm8sV8qpBRYon/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1CBr4XeSmACw6u5sBBgh_ARtHLcJUEK_c",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثالث الابتدائي"
+    },
+    {
+      "id": "178W4kVWqH9VlnqjDZhpo4uN-8ABoVXJa",
+      "name": "pdf_كتاب_التاريخ_صف_اول_ثانوي_251213_215644.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/178W4kVWqH9VlnqjDZhpo4uN-8ABoVXJa/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1BUxJDGGXmeqTIUBx6ouX0nK6F5rpCkQM",
+      "name": "التربية_الإسلامية_الصف_الأول_ثانوي_251213_215445.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1BUxJDGGXmeqTIUBx6ouX0nK6F5rpCkQM/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1JaIFt-n0hFf1WkN6MswGX6AY75BDt1B3",
+      "name": "التربية_الفنية_الصف_الأول_ثانوي_الجديد_251215_073926_1.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1JaIFt-n0hFf1WkN6MswGX6AY75BDt1B3/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1XIF26X7BjBC0tevEJZDu10lEHNOmg_iJ",
+      "name": "التربية_الوطنية_اول_ثانويpdf_251205_202141_251213_220002.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1XIF26X7BjBC0tevEJZDu10lEHNOmg_iJ/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1sEPQXZDbpD8Xzus2Lx4as-21xgOriXt1",
+      "name": "الرياضيات_الصف_الأول_ثانوي_الجديدpdf_251215_073546.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1sEPQXZDbpD8Xzus2Lx4as-21xgOriXt1/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1iwYV23loFLeLqrfG9AqOX6i4uOu0z5Fk",
+      "name": "العلوم_الهندسية_الصف_الأول_ثانوي_الجديد_251215_073820.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1iwYV23loFLeLqrfG9AqOX6i4uOu0z5Fk/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1fISSuTeZEytuwrWyOD96UIOsk0Jfo8Kd",
+      "name": "تكنولوجيا_المعلومات_والاتصالات_الصف_ال_251215_073653.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1fISSuTeZEytuwrWyOD96UIOsk0Jfo8Kd/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1GZ6u5X5fc4siM5fLCmqq30SiyngKYU8x",
+      "name": "ريادة_الاعمال_اول_ثانويpdf_251205_202050_251213_215840.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1GZ6u5X5fc4siM5fLCmqq30SiyngKYU8x/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1zNLxItzuYDEw7_tUjfSmG9ZBoTcTHyzj",
+      "name": "مقرر الأحياء أول ثانوي الجديد.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1zNLxItzuYDEw7_tUjfSmG9ZBoTcTHyzj/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1cN2E9rZ2lJcv7yfkL7Zn4544w_SVoDlC",
+      "name": "مقرر_اللغة_العربية_الصف_الأول_ثانوي_الجديد.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1cN2E9rZ2lJcv7yfkL7Zn4544w_SVoDlC/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1H8eFsomPIIe42_ousI6FgtgPrnK-rPdv",
+      "path": "المكتبة / المرحلة الثانوية / الصف الاول ثانوي"
+    },
+    {
+      "id": "1lmVL8O2FsCJNrNWkFNF6LfyHXgyLWGOn",
+      "name": "SMILE Starter 2.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1lmVL8O2FsCJNrNWkFNF6LfyHXgyLWGOn/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثاني الابتدائي"
+    },
+    {
+      "id": "15HXfA2bJ81gyb4u4QqnZO0olDl7qnj4R",
+      "name": "التربية الإسلامية - ثاني ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/15HXfA2bJ81gyb4u4QqnZO0olDl7qnj4R/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثاني الابتدائي"
+    },
+    {
+      "id": "1SLAbEhcmqk_WqlxSE_0EFfcij9NtqjhE",
+      "name": "الرياضيات - ثاني ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1SLAbEhcmqk_WqlxSE_0EFfcij9NtqjhE/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثاني الابتدائي"
+    },
+    {
+      "id": "1KMuHJ7aALsKNC0QgNf1f7fFIhUYhpYxP",
+      "name": "اللغة العربية  - ثاني ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1KMuHJ7aALsKNC0QgNf1f7fFIhUYhpYxP/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1QYfOAVSM6APfJzOoL8uidNk2EJhrpd2s",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الثاني الابتدائي"
+    },
+    {
+      "id": "1Ug_PyRNkbutrKHANk3fL9Jp_8cUqrtRv",
+      "name": "English Activity Book - Grade 4.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Ug_PyRNkbutrKHANk3fL9Jp_8cUqrtRv/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1hQsLEJ7kwvNahqe5kvx08hkTqTM6uu8I",
+      "name": "English Pupil’s Book - Grade 4.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1hQsLEJ7kwvNahqe5kvx08hkTqTM6uu8I/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1sTpbQRuBdDJ22kje83YP80P1d0Ak5f2w",
+      "name": "التربية الإسلامية - رابع ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1sTpbQRuBdDJ22kje83YP80P1d0Ak5f2w/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1TLcG1Jlyd382LmpP0GhhZ3Eql2z5Xdfy",
+      "name": "التربية الفنية - رابع ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1TLcG1Jlyd382LmpP0GhhZ3Eql2z5Xdfy/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1RMhaAnVB-H2oJN1YhQChU1bTcfQUtzE9",
+      "name": "الرياضيات - رابع ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1RMhaAnVB-H2oJN1YhQChU1bTcfQUtzE9/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1nZpD8Rr-s86wNPSU7QQuWIpQ8LtJbceg",
+      "name": "العلوم الطبيعية - رابع ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1nZpD8Rr-s86wNPSU7QQuWIpQ8LtJbceg/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1u4Jdxkw3Uvhi5dA7SjzmblPQwr1BpYaI",
+      "name": "اللغة العربية - رابع ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1u4Jdxkw3Uvhi5dA7SjzmblPQwr1BpYaI/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1PIbf9l-euHFG16hlhHyIJ_exh8_pIT7k",
+      "name": "تكنولوجيا معلومات - رابع ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1PIbf9l-euHFG16hlhHyIJ_exh8_pIT7k/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1sBLJjQfi0QB28pqqasybMvueR5kdlHS_",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الرابع الابتدائي"
+    },
+    {
+      "id": "1wZdG3NOZrgpvCv3w4i0H-BGjGAiY7OZr",
+      "name": "SMILE Starter 1.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wZdG3NOZrgpvCv3w4i0H-BGjGAiY7OZr/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الأول ابتدائي"
+    },
+    {
+      "id": "1g41rWJZU8aamkvFI5OpyM5QcVMF39aay",
+      "name": "التربية الإسلامية - أول ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1g41rWJZU8aamkvFI5OpyM5QcVMF39aay/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الأول ابتدائي"
+    },
+    {
+      "id": "1E46WmoJfWYgur8nu4IpOXP4sVYWSo-T7",
+      "name": "الرياضيات - أول ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1E46WmoJfWYgur8nu4IpOXP4sVYWSo-T7/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الأول ابتدائي"
+    },
+    {
+      "id": "1__O_54CyBx9ANeDAhZZpUzINRmwW_SNk",
+      "name": "اللغة العربية  - أول ابتدائي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1__O_54CyBx9ANeDAhZZpUzINRmwW_SNk/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1xDuANmhs30w458jwoCIxsuRZ9v90m2RD",
+      "path": "المكتبة / المرحلة الابتدائية / الصف الأول ابتدائي"
+    },
+    {
+      "id": "1AeJdaIVJJnW23KqJtyFNolVxp3qzqTNL",
+      "name": "English Activity Book 8 (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1AeJdaIVJJnW23KqJtyFNolVxp3qzqTNL/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1_vyBAQY8YjWNvAMNK5k8F5hsk-X95kYr",
+      "name": "English Pupil’s Book 8 (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_vyBAQY8YjWNvAMNK5k8F5hsk-X95kYr/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1heD74h7bXZ6GU1cbIF4Le_AgYWFr7DzH",
+      "name": "التاريخ - ثاني متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1heD74h7bXZ6GU1cbIF4Le_AgYWFr7DzH/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1DA73N-f4Y42tnf-_aBaC6INhz5X8NDul",
+      "name": "التربية الإسلامية - ثاني متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1DA73N-f4Y42tnf-_aBaC6INhz5X8NDul/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1KHpfO1d6tkS-9AhssmTFFe_OhOowd8H5",
+      "name": "التربية التقنية - ثاني متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1KHpfO1d6tkS-9AhssmTFFe_OhOowd8H5/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1WzvJec3Y2fthnBJQAKnbruAXej-OTOoS",
+      "name": "الجغرافيا - ثاني متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1WzvJec3Y2fthnBJQAKnbruAXej-OTOoS/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "16F1ronnzzQZ-DLgZW0LCa3rsEVgAF3ch",
+      "name": "الرياضيات - ثاني متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16F1ronnzzQZ-DLgZW0LCa3rsEVgAF3ch/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1sxMtVOc85WsSG-xvRNqcNnuBpfS2BpLZ",
+      "name": "العلوم الطبيعية - ثاني متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1sxMtVOc85WsSG-xvRNqcNnuBpfS2BpLZ/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1vcQFXscOSQrvkLO2eVfqlvdKpi85y4T3",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثاني متوسط"
+    },
+    {
+      "id": "1OhwUqXd-2TTWCicom_Spjdv5PhGwVxHc",
+      "name": "English Pupil’s Book 9.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1OhwUqXd-2TTWCicom_Spjdv5PhGwVxHc/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1fKGu4xsNp85939_MTEISACqCcWSe4j5w",
+      "name": "التاريخ - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1fKGu4xsNp85939_MTEISACqCcWSe4j5w/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1oPjUb5AS3wPGtc_C5DfrcpoGzZ-W4akE",
+      "name": "التربية الإسلامية - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1oPjUb5AS3wPGtc_C5DfrcpoGzZ-W4akE/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1e8iGVNgZ_pGP80UfnRsZFTyoc4_AjNmf",
+      "name": "التربية التقنية - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1e8iGVNgZ_pGP80UfnRsZFTyoc4_AjNmf/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1WgudH8VaLPM45tHOxHP7zW7mhFxbShn8",
+      "name": "الجغرافيا - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1WgudH8VaLPM45tHOxHP7zW7mhFxbShn8/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1P_UK4SfNeP9VAbmja3StbeNfwqZCtB2e",
+      "name": "الرياضيات - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1P_UK4SfNeP9VAbmja3StbeNfwqZCtB2e/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "11c8ror2pIbvBhCfgbFYGkTRgE53BGkLC",
+      "name": "اللغة العربية - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/11c8ror2pIbvBhCfgbFYGkTRgE53BGkLC/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1OEBOmwEF8rcLU4FmDPnS02_NSBcaED2i",
+      "name": "تكنولوجيا معلومات - ثالث متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1OEBOmwEF8rcLU4FmDPnS02_NSBcaED2i/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1XBTpZSDynXIU2FGJtaj1ZebqiXq90vgI",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الثالث متوسط"
+    },
+    {
+      "id": "1paB7gg-9_yybDHHBIe43hTr7CXg9X9IX",
+      "name": "English Pupil’s Book 7.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1paB7gg-9_yybDHHBIe43hTr7CXg9X9IX/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1ft-CbVAZUCXS2XxgfmGADiDLkyLU1hHz",
+      "name": "التاريخ - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ft-CbVAZUCXS2XxgfmGADiDLkyLU1hHz/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1BzfF3zA_GhIkF29491RP732gpPBC6UP1",
+      "name": "التربية الإسلامية - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1BzfF3zA_GhIkF29491RP732gpPBC6UP1/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1wypRnmbpUMKGsiBIGLCJP9Z6zDxdXhSV",
+      "name": "الجغرافيا - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wypRnmbpUMKGsiBIGLCJP9Z6zDxdXhSV/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1X_hRpRAjOZ90kqoZal6t2WMbsr4j2OGm",
+      "name": "الرياضيات - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1X_hRpRAjOZ90kqoZal6t2WMbsr4j2OGm/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1zsBEaIUJ1MkX9sENUiHs0NUjA5W2kut-",
+      "name": "العلوم الطبيعية - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1zsBEaIUJ1MkX9sENUiHs0NUjA5W2kut-/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1ROzG7P5eWrUwD2jUBkP6JaT9TovDMb93",
+      "name": "اللغة العربية - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ROzG7P5eWrUwD2jUBkP6JaT9TovDMb93/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1wCA6ZShn3JJ4H2z-_IsmhseX-BLHaK5d",
+      "name": "تكنولوجيا معلومات - أول متوسط.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wCA6ZShn3JJ4H2z-_IsmhseX-BLHaK5d/view?usp=drive_web",
+      "modified": "Oct 13",
+      "driveLabel": "",
+      "parentId": "1s2I14DO2exSwlXh4lznfprXkpbEomTP-",
+      "path": "المكتبة / المرحلة المتوسطة / الصف الاول متوسط"
+    },
+    {
+      "id": "1B3pxaVQP2p3MBqGK2bR0xbGgGUtT5y_6",
+      "name": "إنتاج زراعي وحيواني - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1B3pxaVQP2p3MBqGK2bR0xbGgGUtT5y_6/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "12zXUygGKyVe0j_E1UdfIkz-hiSAIi3ML",
+      "name": "الأحياء - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/12zXUygGKyVe0j_E1UdfIkz-hiSAIi3ML/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1vDaNk8OqQuRjLrH2ZeBoVsod7gGwUrZC",
+      "name": "البلاغة والتعبير - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1vDaNk8OqQuRjLrH2ZeBoVsod7gGwUrZC/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "17F_-O8wyKsvSvN1rv9gw8A6Oby8wdw0B",
+      "name": "التاريخ - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/17F_-O8wyKsvSvN1rv9gw8A6Oby8wdw0B/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1z-z4mQu2nmQCYSoXKJpDLRBBMT79XPue",
+      "name": "الجغرافيا - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1z-z4mQu2nmQCYSoXKJpDLRBBMT79XPue/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1jL6NLhWVkaOwcfNgUPcB_9e1RvtW2ydt",
+      "name": "الدراسات الإسلامية - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1jL6NLhWVkaOwcfNgUPcB_9e1RvtW2ydt/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1lxSpCn3g71w4UxkPQXGFLp7SmEgWBquB",
+      "name": "الرياضيات - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1lxSpCn3g71w4UxkPQXGFLp7SmEgWBquB/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1cUM0CdrjvIcxLIeQeXyGFGeeKNkxchiW",
+      "name": "العلوم الأسرية - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1cUM0CdrjvIcxLIeQeXyGFGeeKNkxchiW/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1I-mklrdli-0W4vxUXyznPjTZxvU8qdrh",
+      "name": "العلوم التجارية - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1I-mklrdli-0W4vxUXyznPjTZxvU8qdrh/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1CI6WhZxsnKBj3EVriLm4-a4jwpvd_7PI",
+      "name": "العلوم العسكرية - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1CI6WhZxsnKBj3EVriLm4-a4jwpvd_7PI/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "11CPL7DzDGjiUyg8341Iy-onqH1UjTH9m",
+      "name": "العلوم الهندسية - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/11CPL7DzDGjiUyg8341Iy-onqH1UjTH9m/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1zEjW0B_Eea4GfurqVKm2sn1977TOWBfg",
+      "name": "الفنون والتصميم - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1zEjW0B_Eea4GfurqVKm2sn1977TOWBfg/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1PekEKD7KZOZDczgk11LB_uwNarr8Ceri",
+      "name": "الفيزياء - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1PekEKD7KZOZDczgk11LB_uwNarr8Ceri/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1V5EAvmS3c8ckGTEX2wuqoK2joKxBsGrt",
+      "name": "القراّن الكريم - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1V5EAvmS3c8ckGTEX2wuqoK2joKxBsGrt/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1s5etI0WLv-SaP15IT5n9P3WI2MfsT8tp",
+      "name": "الكيمياء - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1s5etI0WLv-SaP15IT5n9P3WI2MfsT8tp/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1rKu8WNm5_mZA3dC1oSsxg0_tS7Z6vnep",
+      "name": "اللغة الإنجليزية Spine5.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1rKu8WNm5_mZA3dC1oSsxg0_tS7Z6vnep/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1s_faCopQjSdMXXurYZtQ8mQTaHZyc8dM",
+      "name": "اللغة العربية الخاصة - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1s_faCopQjSdMXXurYZtQ8mQTaHZyc8dM/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1XUDa4TxLpDPwSCw61GqSid-TUdl2XWi9",
+      "name": "المطالعة والأدب - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1XUDa4TxLpDPwSCw61GqSid-TUdl2XWi9/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1QA7M-IPf5OWC7wN4r4MjBLUNnzrPRSJm",
+      "name": "علوم الحاسوب - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1QA7M-IPf5OWC7wN4r4MjBLUNnzrPRSJm/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "16jQythuKOHjeLOIgHNAG_0YXMadWOBTg",
+      "name": "قواعد نحو - ثاني ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16jQythuKOHjeLOIgHNAG_0YXMadWOBTg/view?usp=drive_web",
+      "modified": "Oct 30",
+      "driveLabel": "",
+      "parentId": "1OQuoDFadJ0I7MZoc7ef0hMQgpHUrq_Yq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثاني ثانوي"
+    },
+    {
+      "id": "1sQvylf2jJ4I9ibHYCvQ9NBDgFBBlGqY6",
+      "name": "00000135-قواعد_انجليزي_كامل.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1sQvylf2jJ4I9ibHYCvQ9NBDgFBBlGqY6/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1ELGmn6otlIu9ns74LnigPfShLOKjQS3V",
+      "name": "احكام المدود.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ELGmn6otlIu9ns74LnigPfShLOKjQS3V/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1i05BeRbhug-IZxjbckDmjuhhoZ-dHF10",
+      "name": "احكام النسل.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1i05BeRbhug-IZxjbckDmjuhhoZ-dHF10/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1dO0cljdB9OJN3iMoDtXUZ8WZKz6inxdo",
+      "name": "اسئله انجليزي هامه.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1dO0cljdB9OJN3iMoDtXUZ8WZKz6inxdo/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1ARNBY7fR2qsm8XNa9awMuXgEQCFsqiaE",
+      "name": "الاعجاز العلمي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ARNBY7fR2qsm8XNa9awMuXgEQCFsqiaE/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "14J6uC34eB7WaoB0EjKljifU1VHkr_f8W",
+      "name": "الإنسانية_الوسطية_الغلو_٠٢١٥١٣.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/14J6uC34eB7WaoB0EjKljifU1VHkr_f8W/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1zdDZ4p-S7ikf85ktz6Ot4xHaAm_aHkAI",
+      "name": "الشافعي علم المعاني.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1zdDZ4p-S7ikf85ktz6Ot4xHaAm_aHkAI/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1e425JOhnvFS8qB063qnpu-TXaC-NoFKw",
+      "name": "الكشاف قواعد نحو_compressed.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1e425JOhnvFS8qB063qnpu-TXaC-NoFKw/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1BYDO5zoUBjCXtSFkGCI6A5gZmnyVhhvi",
+      "name": "بلاغه.مذكره.الكشاف.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1BYDO5zoUBjCXtSFkGCI6A5gZmnyVhhvi/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1_F4H7ZBPeRq_rCqi6JYd2ifktfXItBLX",
+      "name": "علم البيان الشافعي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_F4H7ZBPeRq_rCqi6JYd2ifktfXItBLX/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1pO1v584dNjUaROCqM8VhWTsrs-Fy2J9t",
+      "name": "علم اللبديع الشافعي pdf.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1pO1v584dNjUaROCqM8VhWTsrs-Fy2J9t/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1PLOJGX31HwyN7OuE_Ld1Lu_2ApG_plAZ",
+      "name": "كجنة فــي اللغة الانجليزية (3).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1PLOJGX31HwyN7OuE_Ld1Lu_2ApG_plAZ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1ic0CgkPBlj5I_0VVets1AQuDVGbFWohq",
+      "name": "مذكرة العرندس في الأدب أ.أبوآيات.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ic0CgkPBlj5I_0VVets1AQuDVGbFWohq/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1ZwNp133YpcnkPxoRBuu99Pcv8YjBz6eH",
+      "name": "مذكرة العرندس في القواعد أبوآيات.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZwNp133YpcnkPxoRBuu99Pcv8YjBz6eH/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "18avcFljx8A4moi3BkiOaT3Tu3GDhVsu7",
+      "name": "مذكرة الكشاف في الأدب د.أمجد فتحي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/18avcFljx8A4moi3BkiOaT3Tu3GDhVsu7/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1hDE2fPWBNzBwA7KL_woxh8GKqcAmxRTZ",
+      "name": "مذكرة سورة النور آيات المواريث.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1hDE2fPWBNzBwA7KL_woxh8GKqcAmxRTZ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "13_FdV6sys8E8s6CjzbGHB1R-lwmQQT3c",
+      "name": "مذكرة_الشامل_في_التربية_الإسلامية.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/13_FdV6sys8E8s6CjzbGHB1R-lwmQQT3c/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1RZaRC98AfGHK5bAw2hAbJpRtDyqpiaVE",
+      "name": "مذكرة_العرندس_في_البلاغة_أ_أبوآيات.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1RZaRC98AfGHK5bAw2hAbJpRtDyqpiaVE/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1ikmQ2cphNVJGC-nULKbKp6ybyuS84xMp",
+      "name": "مذكرة_المدونة_في_التربية_الإسلامية_أ_عوض_بلالcompressed.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ikmQ2cphNVJGC-nULKbKp6ybyuS84xMp/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1obKUTbo6cnVmgrSAUqxS9M0E_1hKQfzV",
+      "name": "‎⁨مذكرة_الامتحان_في_اللغة_الإنجليزية⁩.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1obKUTbo6cnVmgrSAUqxS9M0E_1hKQfzV/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1mokZhYZRJOQRhPrWJai1uf6EmfW92M1e",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المذكرات / المواد الأساسية"
+    },
+    {
+      "id": "1TNRAIeGMUTUq00yw5Y4zLUyF0PAoHL_T",
+      "name": "كتاب التاريخ.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1TNRAIeGMUTUq00yw5Y4zLUyF0PAoHL_T/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية"
+    },
+    {
+      "id": "1D4U9F4TNolUnGnW1Sf-UnxoP8AyZ_L-V",
+      "name": "كتاب الجغرافيا.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1D4U9F4TNolUnGnW1Sf-UnxoP8AyZ_L-V/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية"
+    },
+    {
+      "id": "1AIzQhYZJsWEz0mUmaMX3aKzWcjldAg65",
+      "name": "كتاب الرياضيات الأساسية (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1AIzQhYZJsWEz0mUmaMX3aKzWcjldAg65/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية"
+    },
+    {
+      "id": "1N-GF0GekInJo3K_t-qlA6XbhqEorwsli",
+      "name": "كتاب_الدراسات_الإسلامية_اختيارى (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1N-GF0GekInJo3K_t-qlA6XbhqEorwsli/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1fTgq9WXJ2xWtWFKbLPjEkkLC4NV08h6o",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية"
+    },
+    {
+      "id": "1LDsWg86f20cNbw824oFbSE-HT6X1mzT6",
+      "name": "كتاب الأحياء (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LDsWg86f20cNbw824oFbSE-HT6X1mzT6/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "1UGHTH57-rSJ_q8WAkHo4Cyzigmu_j5yZ",
+      "name": "كتاب الرياضيات المتخصصة (1) (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1UGHTH57-rSJ_q8WAkHo4Cyzigmu_j5yZ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "1Zk1bHIeWR_H55SHAuDuvaBVMAft_hJqU",
+      "name": "كتاب الرياضيات المتخصصة (2) (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Zk1bHIeWR_H55SHAuDuvaBVMAft_hJqU/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "1MU-7R6aamVFkm9qsilA8zd6epTR1u-AF",
+      "name": "كتاب الفيزياء.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1MU-7R6aamVFkm9qsilA8zd6epTR1u-AF/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "116Fijzi808QoKvLvZr5unDgsd1VUxG7f",
+      "name": "كتاب علوم الحاسوب (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/116Fijzi808QoKvLvZr5unDgsd1VUxG7f/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "13H_xpPHCPUUmE_X-3jUBTjD72W9Wa8aJ",
+      "name": "كتاب_الكيمياء_صف_ثالث_المعدل (1) (2).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/13H_xpPHCPUUmE_X-3jUBTjD72W9Wa8aJ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "1OaNy2_NodRYGI9V0SS_lVJ9O7OeJuN-I",
+      "name": "‎⁨كتاب العلوم الهندسية⁩ (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1OaNy2_NodRYGI9V0SS_lVJ9O7OeJuN-I/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1TCZlhm1odq7sWljKJqGZGX7uNPEZ7EaH",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد العلمية"
+    },
+    {
+      "id": "1AY9sYFAkdXABt1tJkOVPv_bGO7FFPc2Q",
+      "name": "Our Mutual Friend.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1AY9sYFAkdXABt1tJkOVPv_bGO7FFPc2Q/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1Hwoq94xPH9iSGAxC-wzsERWRyw_uCBWJ",
+      "name": "Things Fall Apart.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Hwoq94xPH9iSGAxC-wzsERWRyw_uCBWJ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1zOvkZu3aZuLtH8yqzD60h1KHwwZs5V9Y",
+      "name": "treasure island (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1zOvkZu3aZuLtH8yqzD60h1KHwwZs5V9Y/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1nedKNr-64uq_qeDxJWoJNdkV7udtcuRp",
+      "name": "التربية_الاسلامية_الطبعة_الثالثة_٢٠١٨.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1nedKNr-64uq_qeDxJWoJNdkV7udtcuRp/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1Jsh0WeVC3yS6foDGLbvGsJsa1vGd-npM",
+      "name": "كتاب البلاغة والتعبير.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Jsh0WeVC3yS6foDGLbvGsJsa1vGd-npM/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1596xYWwEkZ0evx2T0cbQMMWMJ1Di-khO",
+      "name": "كتاب اللغة الانجليزية (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1596xYWwEkZ0evx2T0cbQMMWMJ1Di-khO/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1Jl0L5PubFof9Gb6vi640tlpFy0Ahw51g",
+      "name": "كتاب المطالعة والأدب.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Jl0L5PubFof9Gb6vi640tlpFy0Ahw51g/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1BI-h5RFMi2hQJx0Hzdh4tJy3vbKxExAU",
+      "name": "كتاب قواعد النحو.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1BI-h5RFMi2hQJx0Hzdh4tJy3vbKxExAU/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1jRO4zKzQVxd7T-iMd6zvz9agyNidAKAF",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الاساسية"
+    },
+    {
+      "id": "1_xL3FgVFr_NBgD7epc0tWyomaTZwjUw5",
+      "name": "رياضيات اساسيه22_23 كامل.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_xL3FgVFr_NBgD7epc0tWyomaTZwjUw5/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم أدبي"
+    },
+    {
+      "id": "1kR3d6iUv51Mtz_wat1PMz3h2Hzlp22Eu",
+      "name": "مريح التاريخ .pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1kR3d6iUv51Mtz_wat1PMz3h2Hzlp22Eu/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم أدبي"
+    },
+    {
+      "id": "1geuYQfXUpNwzVmCH3zEB7MVcDhHzTDGv",
+      "name": "مريح الجغرافيا .pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1geuYQfXUpNwzVmCH3zEB7MVcDhHzTDGv/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم أدبي"
+    },
+    {
+      "id": "1yqPbn5NmfVYoZV6UNjNpbVCuW62N0T_S",
+      "name": "مريح دراسات إسلامية22_23.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1yqPbn5NmfVYoZV6UNjNpbVCuW62N0T_S/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1cLjJKrkbiWdMmSUgsqrXIL9emtzzl1or",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم أدبي"
+    },
+    {
+      "id": "1hTSFWNbyxrv3xSKAZ2ch3dHuT5h9qLld",
+      "name": "إمتحان التاريخ 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1hTSFWNbyxrv3xSKAZ2ch3dHuT5h9qLld/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1-1ZRA3ZlHMXfKeVEuX2ehZZKE3JmnZi0",
+      "name": "إمتحان التاريخ 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1-1ZRA3ZlHMXfKeVEuX2ehZZKE3JmnZi0/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1smpkCYWHO2S6GTzL3X2SvVEgHqfg8Dug",
+      "name": "إمتحان التاريخ 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1smpkCYWHO2S6GTzL3X2SvVEgHqfg8Dug/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1Heqcu1KdXWKQVRb-Db271RTeMeysDFWg",
+      "name": "إمتحان التاريخ 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Heqcu1KdXWKQVRb-Db271RTeMeysDFWg/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1yEYQBjXzAmDYfzCiDe0v4c1NpnA0hY0c",
+      "name": "إمتحان التاريخ 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1yEYQBjXzAmDYfzCiDe0v4c1NpnA0hY0c/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1jvTH5KLUrcWzd7_QgDl2o84WVF0aFvwb",
+      "name": "إمتحان التاريخ 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1jvTH5KLUrcWzd7_QgDl2o84WVF0aFvwb/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1iZresAS5Y5yleZcjRHA56pwy_Sh_I80h",
+      "name": "إمتحان التاريخ 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1iZresAS5Y5yleZcjRHA56pwy_Sh_I80h/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1t6-Ydf1L0JfpfLPQpNf55VVl-BBC4SJs",
+      "name": "إمتحان التاريخ 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1t6-Ydf1L0JfpfLPQpNf55VVl-BBC4SJs/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1EFUj_cXM1j02iU0PagBwDsrGPsO5FqoM",
+      "name": "إمتحان الرياضيات الأساسية 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1EFUj_cXM1j02iU0PagBwDsrGPsO5FqoM/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1F7lVMWRuhxER53iRyG6GTni0P2bTtPoy",
+      "name": "إمتحان الرياضيات الأساسية 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1F7lVMWRuhxER53iRyG6GTni0P2bTtPoy/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1eDlsUwY7oSPIwuzre7xSPif1zEIFOJoa",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / التاريخ"
+    },
+    {
+      "id": "1d8ynbkpsV2EG9eSvHSjr2y-Nlk4AfuJk",
+      "name": "المريح_في_إمتحانات_اللغة_الإنجليزية_compressed.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1d8ynbkpsV2EG9eSvHSjr2y-Nlk4AfuJk/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / المواد الأساسية"
+    },
+    {
+      "id": "1fRPOC8kt_RXgrZMI0eV7EimkqlIq9LaI",
+      "name": "مريح الاسلامية.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1fRPOC8kt_RXgrZMI0eV7EimkqlIq9LaI/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / المواد الأساسية"
+    },
+    {
+      "id": "1CQ91b3YR_P5UKx8mlGVdUjf2H0JDY3Vz",
+      "name": "مريح العربي كامل.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1CQ91b3YR_P5UKx8mlGVdUjf2H0JDY3Vz/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1kRafWoc8nPWhOXynjPKvXzo9BEtLWajn",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / المواد الأساسية"
+    },
+    {
+      "id": "1uSpP3LBeIHhxVscvAW6LnahSvF5nRlG1",
+      "name": "إمتحان الجغرافيا 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1uSpP3LBeIHhxVscvAW6LnahSvF5nRlG1/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1RZGtkxdTqd6Wdkyzo1V57pSNjKcf8fpf",
+      "name": "إمتحان الجغرافيا 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1RZGtkxdTqd6Wdkyzo1V57pSNjKcf8fpf/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1L0fl36LlOxZGyOAGuy8TW-kaBtRbk9pC",
+      "name": "إمتحان الجغرافيا 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1L0fl36LlOxZGyOAGuy8TW-kaBtRbk9pC/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "10R4oaeGV77Gxy2GrLbB8f3h7dshkkQhy",
+      "name": "إمتحان الجغرافيا 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/10R4oaeGV77Gxy2GrLbB8f3h7dshkkQhy/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1evCMvTu35OpRrgq25J9NF20lBCDvQhi5",
+      "name": "إمتحان الجغرافيا 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1evCMvTu35OpRrgq25J9NF20lBCDvQhi5/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1HOokFZDky8c2EfKcHhqgf7tySo_4AVyf",
+      "name": "إمتحان الجغرافيا 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1HOokFZDky8c2EfKcHhqgf7tySo_4AVyf/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1iPsqCRAwTJbhaI5bH7gsXnGu3N9QzFeE",
+      "name": "إمتحان الجغرافيا 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1iPsqCRAwTJbhaI5bH7gsXnGu3N9QzFeE/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1LExLKPRC8Nf0O12k1uDyGrEYfU8Xt5fO",
+      "name": "إمتحان الجغرافيا 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LExLKPRC8Nf0O12k1uDyGrEYfU8Xt5fO/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1HTOeadZF5zueIWyGgbG61Z-vTeYmeXRm",
+      "name": "إمتحان الجغرافيا 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1HTOeadZF5zueIWyGgbG61Z-vTeYmeXRm/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1gykZ-6iMAcmgeSZqpguzT1qG7bTAYoNP",
+      "name": "إمتحان الجغرافيا 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1gykZ-6iMAcmgeSZqpguzT1qG7bTAYoNP/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1rPz7WVwEo-qECQIu0q7uL30iKx2j5zoL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الجغرافيا"
+    },
+    {
+      "id": "1_B0DIuF7oVtKIrpXiPeA4eFJZG76Rz60",
+      "name": "الاحياء من المريح_Batch Compress.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_B0DIuF7oVtKIrpXiPeA4eFJZG76Rz60/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "1xHpDnHO28LxpdvcIwtaxgouY4EdJvjuz",
+      "name": "المريح في الرياضيات المتخصصة1 (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1xHpDnHO28LxpdvcIwtaxgouY4EdJvjuz/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "1GilYY431BH1xL9DH7eP-GOpKlrhGZq3M",
+      "name": "المريح_في_الرياضيات_المتحصصة_2_Batch_Compress_1 (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1GilYY431BH1xL9DH7eP-GOpKlrhGZq3M/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "1OIxZdCGJrXZCD5aDKi93Uvc5GwHhmOda",
+      "name": "مريح الحاسوب.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1OIxZdCGJrXZCD5aDKi93Uvc5GwHhmOda/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "1LR70ulrrbAQMbWAqxwHEeAs_4Hv81sEn",
+      "name": "مريح الفيزياء 22_23.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LR70ulrrbAQMbWAqxwHEeAs_4Hv81sEn/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "14MzN4Re6idP7kZxQTe-Rt28EcfjPFJe1",
+      "name": "مريح الكيمياء22_23 .pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/14MzN4Re6idP7kZxQTe-Rt28EcfjPFJe1/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "1c7eRum4xD8xP4wxqnrjY1WWwgSUh1TBU",
+      "name": "مريح هندسية(sudanlibrary1@).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1c7eRum4xD8xP4wxqnrjY1WWwgSUh1TBU/view?usp=drive_web",
+      "modified": "Oct 25",
+      "driveLabel": "",
+      "parentId": "1mqacqLaJEVmoGf91FAPxLAeLy1J22ijx",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / المُريـحات / قسم علمي"
+    },
+    {
+      "id": "1yd2QtqRZ6j9cAWHtOOiMEdYDYVJDXHUM",
+      "name": "إمتحان الرياضيات الأساسية 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1yd2QtqRZ6j9cAWHtOOiMEdYDYVJDXHUM/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1d-wDFYWeIcidJYFyfTrYS6eWvPrFWDT6",
+      "name": "إمتحان الرياضيات الأساسية 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1d-wDFYWeIcidJYFyfTrYS6eWvPrFWDT6/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1XQcRKED0MPjPoOEvNrnrJSwx4Z-M4Ri2",
+      "name": "إمتحان الرياضيات الأساسية 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1XQcRKED0MPjPoOEvNrnrJSwx4Z-M4Ri2/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1BBPoZVIjz9H_ondWcqU5FOp-IzmVcPIv",
+      "name": "إمتحان الرياضيات الأساسية 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1BBPoZVIjz9H_ondWcqU5FOp-IzmVcPIv/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "16Tbv0qm5mQJEX2DYqpPdFSgY2-RjP2VX",
+      "name": "إمتحان الرياضيات الأساسية 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16Tbv0qm5mQJEX2DYqpPdFSgY2-RjP2VX/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1wUSLGJD8ztIDQU7R6BmN5X6et9ZsIjwZ",
+      "name": "إمتحان الرياضيات الأساسية 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wUSLGJD8ztIDQU7R6BmN5X6et9ZsIjwZ/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1uLce9uebvYyzWAB3n0i42RVQAEH_7iUu",
+      "name": "إمتحان الرياضيات الأساسية 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1uLce9uebvYyzWAB3n0i42RVQAEH_7iUu/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1uvcidltAcxrQHL2pWENx6EjS2Sb4eSXE",
+      "name": "إمتحان الرياضيات الأساسية 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1uvcidltAcxrQHL2pWENx6EjS2Sb4eSXE/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "1E6anBcT5wq1OAciNm73HCCyBAek_zX54",
+      "name": "إمتحان الرياضيات الأساسية 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1E6anBcT5wq1OAciNm73HCCyBAek_zX54/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "16EGgYuP_HsbDbA9p5V8MfCkFxOtwl6B_",
+      "name": "إمتحان الرياضيات الأساسية 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16EGgYuP_HsbDbA9p5V8MfCkFxOtwl6B_/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WH3pAZROGbpzca1qrgfHQuAW2qisY70b",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الرياضيات الأساسية"
+    },
+    {
+      "id": "19ddsmnNOAiwvm7PQlRlktwrbRykN39bj",
+      "name": "إمتحان الأحياء 2012.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/19ddsmnNOAiwvm7PQlRlktwrbRykN39bj/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "14B1EAW-kw6dowGQB5oqz3YVG0Y1vFDPn",
+      "name": "إمتحان الأحياء 2013.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/14B1EAW-kw6dowGQB5oqz3YVG0Y1vFDPn/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1mfAJggn7gpQcOrPK5CK-9c4oI97CDFgl",
+      "name": "إمتحان الأحياء 2014.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1mfAJggn7gpQcOrPK5CK-9c4oI97CDFgl/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "16W4wxIl44879atHYzpmagICj5Ii9Fla6",
+      "name": "إمتحان الأحياء 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16W4wxIl44879atHYzpmagICj5Ii9Fla6/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1xd8rlpWpIr2qU-67d0imbzPYiM56RXgS",
+      "name": "إمتحان الأحياء 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1xd8rlpWpIr2qU-67d0imbzPYiM56RXgS/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1q_vtns1oNga29es-VekDpTFluETLylj7",
+      "name": "إمتحان الأحياء 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1q_vtns1oNga29es-VekDpTFluETLylj7/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "14U8TkrMmnF1kipvVjsDs3UkWA35lBlp9",
+      "name": "إمتحان الأحياء 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/14U8TkrMmnF1kipvVjsDs3UkWA35lBlp9/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1JKG3Th5McLBMBy7cVh-eKlNECKf6Iv6x",
+      "name": "إمتحان الأحياء 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1JKG3Th5McLBMBy7cVh-eKlNECKf6Iv6x/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1_BTME2v07t_0Ht6OErBiLFbpzr40NfiY",
+      "name": "إمتحان الأحياء 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_BTME2v07t_0Ht6OErBiLFbpzr40NfiY/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1n_TqrZaDKCuVVMzuhnCXqx1XzAMFUSB9",
+      "name": "إمتحان الأحياء 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1n_TqrZaDKCuVVMzuhnCXqx1XzAMFUSB9/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1w8OzG13obQ7bZjSRhqkOmLCoZ0tmyXH6",
+      "name": "إمتحان الأحياء 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1w8OzG13obQ7bZjSRhqkOmLCoZ0tmyXH6/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "14otMsl2leg-wi33qod6nH2U0NJDqrQcf",
+      "name": "إمتحان الأحياء 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/14otMsl2leg-wi33qod6nH2U0NJDqrQcf/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1ExgpPALv5Z2p63zuXFY08l4N4cr_6sYU",
+      "name": "إمتحان_الأحياء_2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ExgpPALv5Z2p63zuXFY08l4N4cr_6sYU/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1chOJJVjspawdgDH6QIiucEGlkyewdn6L",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الأحياء"
+    },
+    {
+      "id": "1ydFmQKphYxxP2T5ZNjxzNGQ7FMQNxjYv",
+      "name": "إمتحان الفزياء 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ydFmQKphYxxP2T5ZNjxzNGQ7FMQNxjYv/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1FKXBMNTMuknIQo3Oik4_hf6KDqdHsU-t",
+      "name": "إمتحان الفزياء 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1FKXBMNTMuknIQo3Oik4_hf6KDqdHsU-t/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1BWvt1cKUr8HjR31pxAy5rnqU80-xomcn",
+      "name": "إمتحان الفزياء 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1BWvt1cKUr8HjR31pxAy5rnqU80-xomcn/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1q-2Jlk5IedmYEy-klHoTImILDzWd9nUI",
+      "name": "إمتحان الفزياء 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1q-2Jlk5IedmYEy-klHoTImILDzWd9nUI/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1QyzFYrK_BoirY5naYt3s2TNT48qxkqAH",
+      "name": "إمتحان الفزياء 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1QyzFYrK_BoirY5naYt3s2TNT48qxkqAH/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1jVyAhUSPYJ0V-lB7LvU7haZ8cZLmH728",
+      "name": "إمتحان الفزياء 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1jVyAhUSPYJ0V-lB7LvU7haZ8cZLmH728/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1RKM6rK2AJKNfEy2BnLP0rxTy1f1laBZM",
+      "name": "إمتحان الفزياء 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1RKM6rK2AJKNfEy2BnLP0rxTy1f1laBZM/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "15Xhk2PJIsf9_jIVP-wM6B5XoI5Ze_qIe",
+      "name": "إمتحان الفـزياء 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/15Xhk2PJIsf9_jIVP-wM6B5XoI5Ze_qIe/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1ILIUYVNYdrScC2VijKPS-Pop3MQa4MXS",
+      "name": "الفيزياء 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ILIUYVNYdrScC2VijKPS-Pop3MQa4MXS/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1hoq19z7ifkP6uh2nsgfXyvGqRoMZIhmL",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الفيزياء"
+    },
+    {
+      "id": "1ccTEZ_nRH2e1ydVlLXZCg6PO3I2NQyRd",
+      "name": "إمتحان العلوم الهندسية 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ccTEZ_nRH2e1ydVlLXZCg6PO3I2NQyRd/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1A_oVaokdsfkMN1OH7pTgFSnxbYzuugjW",
+      "name": "إمتحان العلوم الهندسية 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1A_oVaokdsfkMN1OH7pTgFSnxbYzuugjW/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1i0T8PcRuuBqxx3Jq2V0PNryKgrMtRa0D",
+      "name": "إمتحان العلوم الهندسية 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1i0T8PcRuuBqxx3Jq2V0PNryKgrMtRa0D/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1jfMDgNo9YjJHs5UDUn3tVf3Fdy97g6hN",
+      "name": "إمتحان العلوم الهندسية 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1jfMDgNo9YjJHs5UDUn3tVf3Fdy97g6hN/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1YDzArGaM8_NZPEU670Ey4fyMOOQnDu17",
+      "name": "إمتحان العلوم الهندسية 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1YDzArGaM8_NZPEU670Ey4fyMOOQnDu17/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1npFUdgPD9hyQkTPBoHXfdZ-uhMAUU7ei",
+      "name": "إمتحان العلوم الهندسية 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1npFUdgPD9hyQkTPBoHXfdZ-uhMAUU7ei/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1qF6limGZV7MQZyXfUzySit8Bh7SePlrC",
+      "name": "إمتحان العلوم الهندسية 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1qF6limGZV7MQZyXfUzySit8Bh7SePlrC/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "13qY_9zKP6lfeAoY52Za0EED_JxZOXPXW",
+      "name": "إمتحان العلوم الهندسية 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/13qY_9zKP6lfeAoY52Za0EED_JxZOXPXW/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1wtbvsKgpz4IJ_e9L1gZ_TiXCbYQ2GEmw",
+      "name": "العلوم الهندسية 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wtbvsKgpz4IJ_e9L1gZ_TiXCbYQ2GEmw/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1FlsO-WX0CtShmuW6w-aF-7Ww4-qDaFKW",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / العلوم الهندسية"
+    },
+    {
+      "id": "1oBgGvZW6WcpGuBiT9icgp0JnLKKaAKCt",
+      "name": "إمتحان الدراسات الإسلامية 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1oBgGvZW6WcpGuBiT9icgp0JnLKKaAKCt/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1oGRxtu5tauIaaf6Js2LX_CbO9dYEJ8ak",
+      "name": "إمتحان الدراسات الإسلامية 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1oGRxtu5tauIaaf6Js2LX_CbO9dYEJ8ak/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1gTCDpWgTWbM2Pa5eOZHqbvEq91teO37J",
+      "name": "إمتحان الدراسات الإسلامية 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1gTCDpWgTWbM2Pa5eOZHqbvEq91teO37J/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1ZTnSm4NhxqO1uqNXveSsYoUtklG1mBIZ",
+      "name": "إمتحان الدراسات الإسلامية 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZTnSm4NhxqO1uqNXveSsYoUtklG1mBIZ/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1VPeOnZCt33RY_Ak6o31_94W0sg0RUokx",
+      "name": "إمتحان الدراسات الإسلامية 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1VPeOnZCt33RY_Ak6o31_94W0sg0RUokx/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1hwp3lfGhBRbw0Ne2_LCPExJ09VHFEeo_",
+      "name": "إمتحان الدراسات الإسلامية 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1hwp3lfGhBRbw0Ne2_LCPExJ09VHFEeo_/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1T1j8YI3fWw0rqNFrUZQ7v26tmhDtU2hm",
+      "name": "إمتحان الدراسات الإسلامية 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1T1j8YI3fWw0rqNFrUZQ7v26tmhDtU2hm/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1E7RewIbw-vYOnxqimTgbXo-OfADod2lk",
+      "name": "إمتحان الدراسات الإسلامية 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1E7RewIbw-vYOnxqimTgbXo-OfADod2lk/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1kRq0FxU6_eOlMOrblnRJqCYYA24T_NLG",
+      "name": "أمتحان الدراسات الإسلامية 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1kRq0FxU6_eOlMOrblnRJqCYYA24T_NLG/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1dGf3Yp57ZS-jUfarur-959N23BPzRcod",
+      "name": "إمتحان الدراسات الإسلامية 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1dGf3Yp57ZS-jUfarur-959N23BPzRcod/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1EKYB1ITlyEB0vV_LpPgLP4Se2WtUxgpk",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الدراسات الإسلامية"
+    },
+    {
+      "id": "1tO8bnWX544M0pjnyxu2JA_yNu4crcOA5",
+      "name": "إمتحان علوم الحاسوب 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1tO8bnWX544M0pjnyxu2JA_yNu4crcOA5/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "1vo7Q6KHWuuQluTkNeRntlM0kGyLHc_9y",
+      "name": "إمتحان علوم الحاسوب 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1vo7Q6KHWuuQluTkNeRntlM0kGyLHc_9y/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "13DaDbIIBZ4EA-Jux6Kxp2ax2AktYGCAF",
+      "name": "إمتحان علوم الحاسوب 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/13DaDbIIBZ4EA-Jux6Kxp2ax2AktYGCAF/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "16Q2bQ4mDQaBogr2uKwkCQzkzs_7G3vVh",
+      "name": "إمتحان علوم الحاسوب 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16Q2bQ4mDQaBogr2uKwkCQzkzs_7G3vVh/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "1Ifsa1aI-ExJ5poXLnumvXKHZ-q-_KFuG",
+      "name": "إمتحان علوم الحاسوب 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Ifsa1aI-ExJ5poXLnumvXKHZ-q-_KFuG/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "1uDBYO77cMIrOI_66faBKYia6LvjMdQOy",
+      "name": "إمتحان علوم الحاسوب 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1uDBYO77cMIrOI_66faBKYia6LvjMdQOy/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "1aVSio6GnXO6mrZp3V_7GRh2EVf99YtLn",
+      "name": "إمتحان علوم الحاسوب 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1aVSio6GnXO6mrZp3V_7GRh2EVf99YtLn/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "1S5qTp69ufkKO6gatOKLSNuFRRK968fa7",
+      "name": "إمتحان علوم الحاسوب 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1S5qTp69ufkKO6gatOKLSNuFRRK968fa7/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "12wr4UYpX31TD1joIKZJnltyXyxlL_DJK",
+      "name": "علوم الحاسوب 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/12wr4UYpX31TD1joIKZJnltyXyxlL_DJK/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1-Nd8xKO_Gu-iiNge_k_FqXS4vWGj3EpJ",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الحاسوب"
+    },
+    {
+      "id": "1IXjEFGO5QQ82Ut9_1f4397Xogup8RTM3",
+      "name": "إمتحان الفنون والتصميم 2005.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1IXjEFGO5QQ82Ut9_1f4397Xogup8RTM3/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "1WhbaQAPjxw85cmWOJouQX301gb_LEnpT",
+      "name": "إمتحان الفنون والتصميم 2006.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1WhbaQAPjxw85cmWOJouQX301gb_LEnpT/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "1MSWmD5BH3tT9luJo2jZGnF7fQFcCNGb1",
+      "name": "إمتحان الفنون والتصميم 2007.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1MSWmD5BH3tT9luJo2jZGnF7fQFcCNGb1/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "1EUXrE5tMkaQB3bHj3zu8zxTqKF5QQPBV",
+      "name": "إمتحان الفنون والتصميم 2008.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1EUXrE5tMkaQB3bHj3zu8zxTqKF5QQPBV/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "12-w24W23LJgFIPv98Iv5h2XV-QnJ1q5I",
+      "name": "إمتحان الفنون والتصميم 2009.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/12-w24W23LJgFIPv98Iv5h2XV-QnJ1q5I/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "1gp-45JSDinthztWKSlXNGScty5-OQ5T4",
+      "name": "إمتحان الفنون والتصميم 2010.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1gp-45JSDinthztWKSlXNGScty5-OQ5T4/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "1--WRsoBkCUqKdvXkcGod0bWC28il_JnF",
+      "name": "إمتحان الفنون والتصميم 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1--WRsoBkCUqKdvXkcGod0bWC28il_JnF/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "1Qx3RXybz6fwK0Yn_Js_bKGjfleKiNf8m",
+      "name": "إمتحان الفنون والتصميم 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Qx3RXybz6fwK0Yn_Js_bKGjfleKiNf8m/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "16bQl1IrUuKwi3u-kwHhJodF-H1eq7U3i",
+      "name": "إمتحان الفنون والتصميم 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16bQl1IrUuKwi3u-kwHhJodF-H1eq7U3i/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "1WTewCWC_ntgnh29v86b1TCoaw-SdAC_A",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم الادبي / الفنون والتصميم"
+    },
+    {
+      "id": "195jU_ak_pjUXIBEXxWSSKLMg-6PMNffA",
+      "name": "إمتحان الرياضيات المتخصصة 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/195jU_ak_pjUXIBEXxWSSKLMg-6PMNffA/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1k_KRJ2pJr7QTHi8IqeMaReGYuL4P9L0w",
+      "name": "إمتحان الرياضيات المتخصصة 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1k_KRJ2pJr7QTHi8IqeMaReGYuL4P9L0w/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1d1NcG6tM0ViEPd3H6YLA2yvUEs6FF-cX",
+      "name": "إمتحان الرياضيات المتخصصة 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1d1NcG6tM0ViEPd3H6YLA2yvUEs6FF-cX/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1pmqJeGOVFD9fN3lEMsaMx-OGg65fBMrX",
+      "name": "إمتحان الرياضيات المتخصصة 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1pmqJeGOVFD9fN3lEMsaMx-OGg65fBMrX/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1KlNAObkIbetjUco_A2EXbUSwOkTw8XKK",
+      "name": "إمتحان الرياضيات المتخصصة 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1KlNAObkIbetjUco_A2EXbUSwOkTw8XKK/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1rpuN6GOs8CLzT-fIzt1cMw1mt3N3A4m1",
+      "name": "إمتحان الرياضيات المتخصصة 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1rpuN6GOs8CLzT-fIzt1cMw1mt3N3A4m1/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1u927_JsyHoavFrzA1vMGatOfTpe51aqm",
+      "name": "إمتحان الرياضيات المتخصصة 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1u927_JsyHoavFrzA1vMGatOfTpe51aqm/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1D4eBqrQj9HlkxqVOE5i6fp5VbFYmc9rD",
+      "name": "الرياضيات المتخصصة 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1D4eBqrQj9HlkxqVOE5i6fp5VbFYmc9rD/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1ZgyUn9RAu9JN51XxCbrCjSVW3yBOWVwD",
+      "name": "امتحان الرياضيات المتخصصة 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZgyUn9RAu9JN51XxCbrCjSVW3yBOWVwD/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Q-L8v1MKx7vfAJ0cB35AJN-CQvEcXlYq",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الرياضيات المتخصصة"
+    },
+    {
+      "id": "1dkCBaLvc_wjrzmKWT6UV9XKDx7w1XjSN",
+      "name": "إمتحان التربية الأسلامية 2011.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1dkCBaLvc_wjrzmKWT6UV9XKDx7w1XjSN/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1Ul0DQpT6YIY6h_1zf3e6YlmjvmuoYK5O",
+      "name": "إمتحان التربية الإسلامية 2003.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Ul0DQpT6YIY6h_1zf3e6YlmjvmuoYK5O/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "131g7-eIs0S2HP1zlQhsTU67Bq_1asVho",
+      "name": "إمتحان التربية الإسلامية 2004.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/131g7-eIs0S2HP1zlQhsTU67Bq_1asVho/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1kCaIfr-bl4XghK0SRNveOaNNlosul96s",
+      "name": "إمتحان التربية الإسلامية 2005.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1kCaIfr-bl4XghK0SRNveOaNNlosul96s/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1T_m5ZCdiesRzXU7ljkBXvMolkFShsjiz",
+      "name": "إمتحان التربية الإسلامية 2006.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1T_m5ZCdiesRzXU7ljkBXvMolkFShsjiz/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1pC7D0QGxQ0L4Al7ctBcziLtZMXGB0jfL",
+      "name": "إمتحان التربية الإسلامية 2012.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1pC7D0QGxQ0L4Al7ctBcziLtZMXGB0jfL/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1IKlGm1i2_zvw_ccb9WK2oeBwd3_FXQyr",
+      "name": "إمتحان التربية الإسلامية 2013.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1IKlGm1i2_zvw_ccb9WK2oeBwd3_FXQyr/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1xCNFvs-JT0TOUbUCaKwM8RjjlYWaN_E_",
+      "name": "إمتحان التربية الإسلامية 2014.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1xCNFvs-JT0TOUbUCaKwM8RjjlYWaN_E_/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1Uk05RW9Z-8qm4G-5jVOxCldQlwRoowq-",
+      "name": "إمتحان التربية الإسلامية 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Uk05RW9Z-8qm4G-5jVOxCldQlwRoowq-/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "18VQDNsoHk8fwdHPWzmxkO7_Ctp_tIV0_",
+      "name": "إمتحان التربية الإسلامية 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/18VQDNsoHk8fwdHPWzmxkO7_Ctp_tIV0_/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1yi1ZevlWasY3YHu04S1_f8S4tpxpHEC8",
+      "name": "إمتحان التربية الإسلامية 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1yi1ZevlWasY3YHu04S1_f8S4tpxpHEC8/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "18hAPdCFs2DvYoHS208QPQaRuvF9mJTcZ",
+      "name": "إمتحان التربية الإسلامية 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/18hAPdCFs2DvYoHS208QPQaRuvF9mJTcZ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "12DD4_tcZJdRuUECdqVDP2n1ZobhCTp2I",
+      "name": "إمتحان التربية الإسلامية 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/12DD4_tcZJdRuUECdqVDP2n1ZobhCTp2I/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1qK3gkdKjk6CjjeNzz5M8rGP7gzXL902_",
+      "name": "إمتحان التربية الإسلامية 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1qK3gkdKjk6CjjeNzz5M8rGP7gzXL902_/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1papbGe5ZYAApyytw_z4sFDMKBWcRjsYd",
+      "name": "إمتحان التربية الإسلامية 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1papbGe5ZYAApyytw_z4sFDMKBWcRjsYd/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "16MJMApm4NaTSTHHMpdnn8KM-TOaQKvUW",
+      "name": "إمتحان التربية الإسلامية 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16MJMApm4NaTSTHHMpdnn8KM-TOaQKvUW/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1RxaWPts6A41mvwdvYGONrh8KMbz8UPQK",
+      "name": "إمتحان التربية الإسلامية 2026",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1RxaWPts6A41mvwdvYGONrh8KMbz8UPQK/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1ldVo0peUnuV-PFsHLkP13A1QPHdlM28A",
+      "name": "إمتحان_التربية_الإسلامية_الورقة_الخاصة_2004.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ldVo0peUnuV-PFsHLkP13A1QPHdlM28A/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1YnYA8msQebThffJ0igjOeQ_uIz1B17BO",
+      "name": "امتحان التربية الإسلامية 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1YnYA8msQebThffJ0igjOeQ_uIz1B17BO/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1Fb6KrrUOuSTNa_Zkrx0cmHIMlJQCIJPr",
+      "name": "امتحان_التربية_الإسلامية_23_قناة_P_F_S.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Fb6KrrUOuSTNa_Zkrx0cmHIMlJQCIJPr/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1-AG2jui24ObFSxSpYkqZEMMfR7N-faU1",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / التربية الاسلامية"
+    },
+    {
+      "id": "1x0TJV5ISLeliWtCv1dxwDZrkUbcD5Tkw",
+      "name": "إمتحان الكيمياء 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1x0TJV5ISLeliWtCv1dxwDZrkUbcD5Tkw/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1ZNsnfQo-MkqxK_Nx7PM3opAVVTQRzNvK",
+      "name": "إمتحان الكيمياء 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZNsnfQo-MkqxK_Nx7PM3opAVVTQRzNvK/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1RR-f25LHtSOgXX_wPy6DuKJG7c51bhIB",
+      "name": "إمتحان الكيمياء 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1RR-f25LHtSOgXX_wPy6DuKJG7c51bhIB/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1wfV5FgnrIDTAry4bOzOlkROVAHVbbUcr",
+      "name": "إمتحان الكيمياء 2018 البديل.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wfV5FgnrIDTAry4bOzOlkROVAHVbbUcr/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1nGto_qSv5vr5QuyW0LA8vKOOOfdnb7H3",
+      "name": "إمتحان الكيمياء 2018 المكشوف.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1nGto_qSv5vr5QuyW0LA8vKOOOfdnb7H3/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1wJ0gSPKv82wpDsyJelFTiDLPpyS0N28Y",
+      "name": "إمتحان الكيمياء 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1wJ0gSPKv82wpDsyJelFTiDLPpyS0N28Y/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1P3kGCz7lmEfXuXcSQmDpTW-zkBW7Mwr9",
+      "name": "إمتحان الكيمياء 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1P3kGCz7lmEfXuXcSQmDpTW-zkBW7Mwr9/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1S8-FI1k7o8CArzfT1Bwt5TQDvT444bRY",
+      "name": "إمتحان الكيمياء 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1S8-FI1k7o8CArzfT1Bwt5TQDvT444bRY/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1FnNpd5jE7cj_Bbk5E74NjcjMWcXGQIRi",
+      "name": "إمتحان الكيمياء 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1FnNpd5jE7cj_Bbk5E74NjcjMWcXGQIRi/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1onIItWL8EEVakpfx1TRegeCFItAcK8Cv",
+      "name": "إمتحان الكيمياء2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1onIItWL8EEVakpfx1TRegeCFItAcK8Cv/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "17Ma3By1eHZ9vtBm6Lhz_EQeDc3Yjni7S",
+      "name": "الكيمياء 2023.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/17Ma3By1eHZ9vtBm6Lhz_EQeDc3Yjni7S/view?usp=drive_web",
+      "modified": "Oct 19",
+      "driveLabel": "",
+      "parentId": "1Im6TRBAY63j1EBmwPfU4YKQjQ-DEitMo",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات القسم العلمي / الكيمياء"
+    },
+    {
+      "id": "1S-Czq-NFh2j98Aghevh-Me2S7ckDyCai",
+      "name": "إمتحان اللغة الإنجليزية 2005.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1S-Czq-NFh2j98Aghevh-Me2S7ckDyCai/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1kqauMLdV6Ha05KF_AbTPx8QFofdCvH9F",
+      "name": "إمتحان اللغة الإنجليزية 2011.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1kqauMLdV6Ha05KF_AbTPx8QFofdCvH9F/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1po5eeTlDg5jvKML7BljJCGeHt2QVX38I",
+      "name": "إمتحان اللغة الإنجليزية 2012.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1po5eeTlDg5jvKML7BljJCGeHt2QVX38I/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1kEd-nGefMo2tBcR3ogo8S1SMRixuPB4m",
+      "name": "إمتحان اللغة الإنجليزية 2013.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1kEd-nGefMo2tBcR3ogo8S1SMRixuPB4m/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1HJBt6_FuBjPdqVUYL7hhQYV37fMrpygm",
+      "name": "إمتحان اللغة الإنجليزية 2014.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1HJBt6_FuBjPdqVUYL7hhQYV37fMrpygm/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1gw-pIwBYuRAPoceFc0_6SQcehjSmgnFP",
+      "name": "إمتحان اللغة الإنجليزية 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1gw-pIwBYuRAPoceFc0_6SQcehjSmgnFP/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1YwGSXuoZLrjp9m97ERhlTgruD8CajFB8",
+      "name": "إمتحان اللغة الإنجليزية 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1YwGSXuoZLrjp9m97ERhlTgruD8CajFB8/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1obr-YmrP4joe7rPtC9wip9h_0ShvH2gS",
+      "name": "إمتحان اللغة الإنجليزية 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1obr-YmrP4joe7rPtC9wip9h_0ShvH2gS/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1zqrFGoO8mObEOFX4BC4m9ktBIHe3nqC7",
+      "name": "إمتحان اللغة الإنجليزية 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1zqrFGoO8mObEOFX4BC4m9ktBIHe3nqC7/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1gtFhvEUy5_VRT02sCQOhhgpWabYaGnw2",
+      "name": "إمتحان اللغة الإنجليزية 2019.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1gtFhvEUy5_VRT02sCQOhhgpWabYaGnw2/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1v0jiggOSP8bm_aZaIMHszsW3f0uBC5zC",
+      "name": "إمتحان اللغة الإنجليزية 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1v0jiggOSP8bm_aZaIMHszsW3f0uBC5zC/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1GU5lU50i6Hrlgcg_cK7orl5LWfWLOA9D",
+      "name": "إمتحان اللغة الإنجليزية 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1GU5lU50i6Hrlgcg_cK7orl5LWfWLOA9D/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1gH1InRpZFn0YBno2k2ASsQ2kXd9LneiG",
+      "name": "إمتحان اللغة الإنجليزية 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1gH1InRpZFn0YBno2k2ASsQ2kXd9LneiG/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1PNoxZi01uSBs4ANGyTje6J9K_PZR7IW_",
+      "name": "إمتحان اللغه الإنجليزية 2026",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1PNoxZi01uSBs4ANGyTje6J9K_PZR7IW_/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1n7T1OOK1xbkuB_1fDuE2zw5vAgLxrOno",
+      "name": "إمتحان_اللغة_الإنجليزية_الورقة_الأولى_2003.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1n7T1OOK1xbkuB_1fDuE2zw5vAgLxrOno/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1SHjXjIsFZUKIQBGa072Y-fvXfMvTn2qt",
+      "name": "إمتحان_اللغة_الإنجليزية_الورقة_الأولى_2004.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1SHjXjIsFZUKIQBGa072Y-fvXfMvTn2qt/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1Wwckfa0rpwPURBGrYiIW7ffdsgVfFdmz",
+      "name": "إمتحان_اللغة_الإنجليزية_الورقة_الثانية_2003.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Wwckfa0rpwPURBGrYiIW7ffdsgVfFdmz/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1Lwetjpx9qeN5o6gSez4iHhG10frJ90HS",
+      "name": "إمتحان_اللغة_الإنجليزية_الورقة_الثانية_2004.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Lwetjpx9qeN5o6gSez4iHhG10frJ90HS/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1LK4Fu8KZ8FXXS8PaMKXg_Cl-BniRuzW6",
+      "name": "الاجابات_النموزجية_اللغة_العربية_2023_.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LK4Fu8KZ8FXXS8PaMKXg_Cl-BniRuzW6/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1aqYoXOKC1dZTk5zXa0d-y9HSwlrzHIsE",
+      "name": "امتحان الانجليزي 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1aqYoXOKC1dZTk5zXa0d-y9HSwlrzHIsE/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1oejYC3gA1SoGpxxA0PZjPJnZvNGZmRXC",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة الانجليزية"
+    },
+    {
+      "id": "1AV1ZbX4r9wvCjtzzxtB5F0fU8nwlV2lf",
+      "name": "إمتحان اللغة العربية 2005.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1AV1ZbX4r9wvCjtzzxtB5F0fU8nwlV2lf/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "13PGitXOcXNjIeYvlXijc-YBslN_PA2-d",
+      "name": "إمتحان اللغة العربية 2006.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/13PGitXOcXNjIeYvlXijc-YBslN_PA2-d/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1Uz5wh_uQvqyMlthOfH01JctbiO6NL4O3",
+      "name": "إمتحان اللغة العربية 2007.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Uz5wh_uQvqyMlthOfH01JctbiO6NL4O3/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1u0o_aulKRrfhn7PkBmDMvIc_23UNlNxE",
+      "name": "إمتحان اللغة العربية 2012.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1u0o_aulKRrfhn7PkBmDMvIc_23UNlNxE/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1-YA-fxaAz0QYxODdZ5llBOeUaZwB7QSr",
+      "name": "إمتحان اللغة العربية 2013.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1-YA-fxaAz0QYxODdZ5llBOeUaZwB7QSr/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1atpfyiJ7wUXhIH87BmG--qitGF4i825Q",
+      "name": "إمتحان اللغة العربية 2014.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1atpfyiJ7wUXhIH87BmG--qitGF4i825Q/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1bTc3_DV7NXsQ3ENhRtczi9UOIl28RVD1",
+      "name": "إمتحان اللغة العربية 2015.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1bTc3_DV7NXsQ3ENhRtczi9UOIl28RVD1/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1Pa3P370YOFxHbWFNGjxhlwTTQ6u92LA5",
+      "name": "إمتحان اللغة العربية 2016.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Pa3P370YOFxHbWFNGjxhlwTTQ6u92LA5/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1-g-TrDK0pSdiyIWZzhc0NQNYUBQ13ESc",
+      "name": "إمتحان اللغة العربية 2017.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1-g-TrDK0pSdiyIWZzhc0NQNYUBQ13ESc/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1_aK2AIyPYDzr-VSq1XFGA4LwF_BIUGgU",
+      "name": "إمتحان اللغة العربية 2018.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_aK2AIyPYDzr-VSq1XFGA4LwF_BIUGgU/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "13oPwKFO1KfWlXUD2No5scu0FumVxe-uI",
+      "name": "إمتحان اللغة العربية 2019 (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/13oPwKFO1KfWlXUD2No5scu0FumVxe-uI/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1ZVgyvL3wDQdr1wu7PrRkA2_onX6HICDP",
+      "name": "إمتحان اللغة العربية 2020.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZVgyvL3wDQdr1wu7PrRkA2_onX6HICDP/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1LKlx8yCHLAnl1pKyfZ95V8MGIE9sY0WJ",
+      "name": "إمتحان اللغة العربية 2021.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LKlx8yCHLAnl1pKyfZ95V8MGIE9sY0WJ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "16VWluwzeLNinEnPstYEGGgPWSCHgMedU",
+      "name": "إمتحان اللغة العربية 2022.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/16VWluwzeLNinEnPstYEGGgPWSCHgMedU/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1-ShktstW2G9OVGw6V7GdguLixNQvLv3p",
+      "name": "إمتحان اللغة العربية 2026",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1-ShktstW2G9OVGw6V7GdguLixNQvLv3p/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1_0IlkdmVkDJW13R3ruoHB0zCBdUDyStF",
+      "name": "إمتحان_اللغة_العربية_الورقة_الأولى_2004.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1_0IlkdmVkDJW13R3ruoHB0zCBdUDyStF/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1LxqmIoK9KfrIHqSAMbNd8_FL0SMF9VlD",
+      "name": "إمتحان_اللغة_العربية_الورقة_الثانية_2003.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LxqmIoK9KfrIHqSAMbNd8_FL0SMF9VlD/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1Yd6Rjj1bcW3Fkc2wh5tTs7j6Xp3gXfrf",
+      "name": "امتحان العربي 2024.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1Yd6Rjj1bcW3Fkc2wh5tTs7j6Xp3gXfrf/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "1-v3GdD9HmDADdSbEha53FAOPWfgPkBwd",
+      "name": "امتحان العربي 23  قناة  P _ F _ S.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1-v3GdD9HmDADdSbEha53FAOPWfgPkBwd/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1AZrQgeulFbVFmRMNT65ECjYTDfqsbGpO",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الامتحانات السابقة / امتحانات المواد الاساسية / اللغة العربية"
+    },
+    {
+      "id": "12e_TN0cTnfeAUe0ap2iSmW3gdCu6j1ik",
+      "name": "الفنون والتصميم - ثالث ثانوي.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/12e_TN0cTnfeAUe0ap2iSmW3gdCu6j1ik/view?usp=drive_web",
+      "modified": "Oct 22",
+      "driveLabel": "",
+      "parentId": "15SLvOf8nCPfcTfDIqN60RabVZM0r49N2",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / كتب المواد الأدبية / الفنون والتصميم"
+    },
+    {
+      "id": "1OOOjdCfmjn7VqV_Hcz-UgeH01Dyr93f8",
+      "name": "حل تمارين كتاب التربيه الاسلاميه.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1OOOjdCfmjn7VqV_Hcz-UgeH01Dyr93f8/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1nfUF4RcJr-VwpY_1ggZUL-BZ7sD150bg",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المواد الأساسية"
+    },
+    {
+      "id": "10Xnww8NWHUPyyMovKZI1x5aXCt2AOa1Q",
+      "name": "حلول تمارين ¦ الأدب والمُطالعة.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/10Xnww8NWHUPyyMovKZI1x5aXCt2AOa1Q/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1nfUF4RcJr-VwpY_1ggZUL-BZ7sD150bg",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المواد الأساسية"
+    },
+    {
+      "id": "1K7SDZf82zPtfeSPQrY0pfdFdgcJI_1RQ",
+      "name": "إجابات_تمارين_كتاب_علوم_الحاسوب_إمتحانات_وأوراق_عمل_الشهادة_السودانية (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1K7SDZf82zPtfeSPQrY0pfdFdgcJI_1RQ/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المساق العلمي"
+    },
+    {
+      "id": "1YNLx8XaU5G-GK3tod8wKKQ7j9-75NT_k",
+      "name": "حل تدريبات الوحدة 1و3كتاب الأحياء (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1YNLx8XaU5G-GK3tod8wKKQ7j9-75NT_k/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المساق العلمي"
+    },
+    {
+      "id": "1e2OJYHZXBmmKPZbpXHTSLc_SyEGb512_",
+      "name": "حل تدريبات كتاب الكيمياء (1).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1e2OJYHZXBmmKPZbpXHTSLc_SyEGb512_/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المساق العلمي"
+    },
+    {
+      "id": "1ZtsCr1V_Z35sN8Zx0NW7sv-UjK4Ls0BT",
+      "name": "حل تمارين الكتاب الاول متخصصه (1) (2).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ZtsCr1V_Z35sN8Zx0NW7sv-UjK4Ls0BT/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المساق العلمي"
+    },
+    {
+      "id": "1LNGppnBzXKcXrdAgGwyTUfW7qrxXXP89",
+      "name": "حل_تمارين_فيزياء_ثالث_ثانوي٠أبومزن_ومحمد_الكرار_و_أ٠محجوب_مضوي_3.pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1LNGppnBzXKcXrdAgGwyTUfW7qrxXXP89/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المساق العلمي"
+    },
+    {
+      "id": "1ibPmcwvWWcEqhUYbW9skkftwHCtXWlkr",
+      "name": "حلول_تمارين_كتاب_الرياضيات_المتخصصة_الثاني1 (2).pdf",
+      "type": "file",
+      "url": "https://drive.google.com/file/d/1ibPmcwvWWcEqhUYbW9skkftwHCtXWlkr/view?usp=drive_web",
+      "modified": "Oct 18",
+      "driveLabel": "",
+      "parentId": "1DNKQ8JDGVV5apBJ-sAx99184Ho3FHbE4",
+      "path": "المكتبة / المرحلة الثانوية / الصف الثالث ثانوي / الكتب الدراسية / حلول تمارين الكتب / حلول تمارين الكتب المساق العلمي"
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "folders": 55,
+    "files": 324,
+    "scanned": 55
+  }
+}
